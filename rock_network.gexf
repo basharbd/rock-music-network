@@ -1,0 +1,3627 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2025-09-29">
+    <creator>NetworkX 3.3</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="word_count" type="long" />
+    </attributes>
+    <nodes>
+      <node id="Funkadelic" label="Funkadelic">
+        <attvalues>
+          <attvalue for="0" value="2661" />
+        </attvalues>
+      </node>
+      <node id="Slayer" label="Slayer">
+        <attvalues>
+          <attvalue for="0" value="23935" />
+        </attvalues>
+      </node>
+      <node id="Ted/Nugent" label="Ted/Nugent">
+        <attvalues>
+          <attvalue for="0" value="16438" />
+        </attvalues>
+      </node>
+      <node id="Great/White" label="Great/White">
+        <attvalues>
+          <attvalue for="0" value="8956" />
+        </attvalues>
+      </node>
+      <node id="Days/of/the/New" label="Days/of/the/New">
+        <attvalues>
+          <attvalue for="0" value="5041" />
+        </attvalues>
+      </node>
+      <node id="Keane/(band)" label="Keane/(band)">
+        <attvalues>
+          <attvalue for="0" value="9152" />
+        </attvalues>
+      </node>
+      <node id="Jimmy/Eat/World" label="Jimmy/Eat/World">
+        <attvalues>
+          <attvalue for="0" value="7209" />
+        </attvalues>
+      </node>
+      <node id="Flogging/Molly" label="Flogging/Molly">
+        <attvalues>
+          <attvalue for="0" value="2483" />
+        </attvalues>
+      </node>
+      <node id="Simple/Plan" label="Simple/Plan">
+        <attvalues>
+          <attvalue for="0" value="9250" />
+        </attvalues>
+      </node>
+      <node id="AC/DC" label="AC/DC">
+        <attvalues>
+          <attvalue for="0" value="27050" />
+        </attvalues>
+      </node>
+      <node id="Foreigner/(band)" label="Foreigner/(band)">
+        <attvalues>
+          <attvalue for="0" value="11364" />
+        </attvalues>
+      </node>
+      <node id="Steppenwolf/(band)" label="Steppenwolf/(band)">
+        <attvalues>
+          <attvalue for="0" value="3570" />
+        </attvalues>
+      </node>
+      <node id="Joe/Walsh" label="Joe/Walsh">
+        <attvalues>
+          <attvalue for="0" value="11201" />
+        </attvalues>
+      </node>
+      <node id="Hoobastank" label="Hoobastank">
+        <attvalues>
+          <attvalue for="0" value="4192" />
+        </attvalues>
+      </node>
+      <node id="Guns/N'/Roses" label="Guns/N'/Roses">
+        <attvalues>
+          <attvalue for="0" value="55078" />
+        </attvalues>
+      </node>
+      <node id="Roxy/Music" label="Roxy/Music">
+        <attvalues>
+          <attvalue for="0" value="9014" />
+        </attvalues>
+      </node>
+      <node id="Limp/Bizkit" label="Limp/Bizkit">
+        <attvalues>
+          <attvalue for="0" value="27902" />
+        </attvalues>
+      </node>
+      <node id="Midnight/Oil" label="Midnight/Oil">
+        <attvalues>
+          <attvalue for="0" value="15873" />
+        </attvalues>
+      </node>
+      <node id="Awolnation" label="Awolnation">
+        <attvalues>
+          <attvalue for="0" value="8352" />
+        </attvalues>
+      </node>
+      <node id="Dio/(band)" label="Dio/(band)">
+        <attvalues>
+          <attvalue for="0" value="4634" />
+        </attvalues>
+      </node>
+      <node id="Marilyn/Manson" label="Marilyn/Manson">
+        <attvalues>
+          <attvalue for="0" value="33140" />
+        </attvalues>
+      </node>
+      <node id="Thirty/Seconds/to/Mars" label="Thirty/Seconds/to/Mars">
+        <attvalues>
+          <attvalue for="0" value="9854" />
+        </attvalues>
+      </node>
+      <node id="Black/Stone/Cherry" label="Black/Stone/Cherry">
+        <attvalues>
+          <attvalue for="0" value="2786" />
+        </attvalues>
+      </node>
+      <node id="Herman's/Hermits" label="Herman's/Hermits">
+        <attvalues>
+          <attvalue for="0" value="5599" />
+        </attvalues>
+      </node>
+      <node id="Manfred/Mann's/Earth/Band" label="Manfred/Mann's/Earth/Band">
+        <attvalues>
+          <attvalue for="0" value="5853" />
+        </attvalues>
+      </node>
+      <node id="The/Pretenders" label="The/Pretenders">
+        <attvalues>
+          <attvalue for="0" value="4194" />
+        </attvalues>
+      </node>
+      <node id="Ghost/(Swedish/band)" label="Ghost/(Swedish/band)">
+        <attvalues>
+          <attvalue for="0" value="23444" />
+        </attvalues>
+      </node>
+      <node id="10cc" label="10cc">
+        <attvalues>
+          <attvalue for="0" value="10477" />
+        </attvalues>
+      </node>
+      <node id="Eric/Clapton" label="Eric/Clapton">
+        <attvalues>
+          <attvalue for="0" value="29301" />
+        </attvalues>
+      </node>
+      <node id="Kiss/(band)" label="Kiss/(band)">
+        <attvalues>
+          <attvalue for="0" value="25568" />
+        </attvalues>
+      </node>
+      <node id="Pearl/Jam" label="Pearl/Jam">
+        <attvalues>
+          <attvalue for="0" value="19661" />
+        </attvalues>
+      </node>
+      <node id="Billy/Talent" label="Billy/Talent">
+        <attvalues>
+          <attvalue for="0" value="7258" />
+        </attvalues>
+      </node>
+      <node id="Starset" label="Starset">
+        <attvalues>
+          <attvalue for="0" value="6872" />
+        </attvalues>
+      </node>
+      <node id="Jack/White" label="Jack/White">
+        <attvalues>
+          <attvalue for="0" value="20719" />
+        </attvalues>
+      </node>
+      <node id="Queensrÿche" label="Queensrÿche">
+        <attvalues>
+          <attvalue for="0" value="11767" />
+        </attvalues>
+      </node>
+      <node id="Alanis/Morissette" label="Alanis/Morissette">
+        <attvalues>
+          <attvalue for="0" value="17064" />
+        </attvalues>
+      </node>
+      <node id="Korn" label="Korn">
+        <attvalues>
+          <attvalue for="0" value="26639" />
+        </attvalues>
+      </node>
+      <node id="The/Marshall/Tucker/Band" label="The/Marshall/Tucker/Band">
+        <attvalues>
+          <attvalue for="0" value="6374" />
+        </attvalues>
+      </node>
+      <node id="Steve/Vai" label="Steve/Vai">
+        <attvalues>
+          <attvalue for="0" value="16526" />
+        </attvalues>
+      </node>
+      <node id="George/Thorogood" label="George/Thorogood">
+        <attvalues>
+          <attvalue for="0" value="5690" />
+        </attvalues>
+      </node>
+      <node id="Lamb/of/God/(band)" label="Lamb/of/God/(band)">
+        <attvalues>
+          <attvalue for="0" value="13917" />
+        </attvalues>
+      </node>
+      <node id="Peter/Frampton" label="Peter/Frampton">
+        <attvalues>
+          <attvalue for="0" value="8834" />
+        </attvalues>
+      </node>
+      <node id="Dire/Straits" label="Dire/Straits">
+        <attvalues>
+          <attvalue for="0" value="11766" />
+        </attvalues>
+      </node>
+      <node id="Linkin/Park" label="Linkin/Park">
+        <attvalues>
+          <attvalue for="0" value="34775" />
+        </attvalues>
+      </node>
+      <node id="The/Moody/Blues" label="The/Moody/Blues">
+        <attvalues>
+          <attvalue for="0" value="13375" />
+        </attvalues>
+      </node>
+      <node id="Black/Sabbath" label="Black/Sabbath">
+        <attvalues>
+          <attvalue for="0" value="28288" />
+        </attvalues>
+      </node>
+      <node id="Our/Lady/Peace" label="Our/Lady/Peace">
+        <attvalues>
+          <attvalue for="0" value="8575" />
+        </attvalues>
+      </node>
+      <node id="Asia/(band)" label="Asia/(band)">
+        <attvalues>
+          <attvalue for="0" value="9029" />
+        </attvalues>
+      </node>
+      <node id="John/Mayall" label="John/Mayall">
+        <attvalues>
+          <attvalue for="0" value="5919" />
+        </attvalues>
+      </node>
+      <node id="Run-DMC" label="Run-DMC">
+        <attvalues>
+          <attvalue for="0" value="8460" />
+        </attvalues>
+      </node>
+      <node id="Steve/Winwood" label="Steve/Winwood">
+        <attvalues>
+          <attvalue for="0" value="7849" />
+        </attvalues>
+      </node>
+      <node id="Kid/Rock" label="Kid/Rock">
+        <attvalues>
+          <attvalue for="0" value="16423" />
+        </attvalues>
+      </node>
+      <node id="Styx/(band)" label="Styx/(band)">
+        <attvalues>
+          <attvalue for="0" value="7933" />
+        </attvalues>
+      </node>
+      <node id="Small/Faces" label="Small/Faces">
+        <attvalues>
+          <attvalue for="0" value="7540" />
+        </attvalues>
+      </node>
+      <node id="Hootie/&amp;/the/Blowfish" label="Hootie/&amp;/the/Blowfish">
+        <attvalues>
+          <attvalue for="0" value="4178" />
+        </attvalues>
+      </node>
+      <node id="Boys/Like/Girls" label="Boys/Like/Girls">
+        <attvalues>
+          <attvalue for="0" value="8842" />
+        </attvalues>
+      </node>
+      <node id="Kansas/(band)" label="Kansas/(band)">
+        <attvalues>
+          <attvalue for="0" value="7105" />
+        </attvalues>
+      </node>
+      <node id="Cheap/Trick" label="Cheap/Trick">
+        <attvalues>
+          <attvalue for="0" value="6319" />
+        </attvalues>
+      </node>
+      <node id="Ozzy/Osbourne" label="Ozzy/Osbourne">
+        <attvalues>
+          <attvalue for="0" value="26369" />
+        </attvalues>
+      </node>
+      <node id="Cold/Chisel" label="Cold/Chisel">
+        <attvalues>
+          <attvalue for="0" value="10407" />
+        </attvalues>
+      </node>
+      <node id="Chubby/Checker" label="Chubby/Checker">
+        <attvalues>
+          <attvalue for="0" value="6375" />
+        </attvalues>
+      </node>
+      <node id="New/York/Dolls" label="New/York/Dolls">
+        <attvalues>
+          <attvalue for="0" value="9678" />
+        </attvalues>
+      </node>
+      <node id="Elton/John" label="Elton/John">
+        <attvalues>
+          <attvalue for="0" value="37536" />
+        </attvalues>
+      </node>
+      <node id="Def/Leppard" label="Def/Leppard">
+        <attvalues>
+          <attvalue for="0" value="15268" />
+        </attvalues>
+      </node>
+      <node id="The/Cure" label="The/Cure">
+        <attvalues>
+          <attvalue for="0" value="15181" />
+        </attvalues>
+      </node>
+      <node id="Ringo/Starr" label="Ringo/Starr">
+        <attvalues>
+          <attvalue for="0" value="21836" />
+        </attvalues>
+      </node>
+      <node id="Joan/Jett" label="Joan/Jett">
+        <attvalues>
+          <attvalue for="0" value="10744" />
+        </attvalues>
+      </node>
+      <node id="Staind" label="Staind">
+        <attvalues>
+          <attvalue for="0" value="6695" />
+        </attvalues>
+      </node>
+      <node id="Snow/Patrol" label="Snow/Patrol">
+        <attvalues>
+          <attvalue for="0" value="9759" />
+        </attvalues>
+      </node>
+      <node id="Talking/Heads" label="Talking/Heads">
+        <attvalues>
+          <attvalue for="0" value="7645" />
+        </attvalues>
+      </node>
+      <node id="Breaking/Benjamin" label="Breaking/Benjamin">
+        <attvalues>
+          <attvalue for="0" value="15061" />
+        </attvalues>
+      </node>
+      <node id="Dave/Matthews/Band" label="Dave/Matthews/Band">
+        <attvalues>
+          <attvalue for="0" value="11540" />
+        </attvalues>
+      </node>
+      <node id="The/Fray" label="The/Fray">
+        <attvalues>
+          <attvalue for="0" value="8149" />
+        </attvalues>
+      </node>
+      <node id="Theory/of/a/Deadman" label="Theory/of/a/Deadman">
+        <attvalues>
+          <attvalue for="0" value="5593" />
+        </attvalues>
+      </node>
+      <node id="Van/Halen" label="Van/Halen">
+        <attvalues>
+          <attvalue for="0" value="16164" />
+        </attvalues>
+      </node>
+      <node id="Van/Morrison" label="Van/Morrison">
+        <attvalues>
+          <attvalue for="0" value="29430" />
+        </attvalues>
+      </node>
+      <node id="Judas/Priest" label="Judas/Priest">
+        <attvalues>
+          <attvalue for="0" value="20760" />
+        </attvalues>
+      </node>
+      <node id="Jefferson/Starship" label="Jefferson/Starship">
+        <attvalues>
+          <attvalue for="0" value="9554" />
+        </attvalues>
+      </node>
+      <node id="The/Smashing/Pumpkins" label="The/Smashing/Pumpkins">
+        <attvalues>
+          <attvalue for="0" value="19992" />
+        </attvalues>
+      </node>
+      <node id="Harry/Nilsson" label="Harry/Nilsson">
+        <attvalues>
+          <attvalue for="0" value="8123" />
+        </attvalues>
+      </node>
+      <node id="Bob/Dylan" label="Bob/Dylan">
+        <attvalues>
+          <attvalue for="0" value="38848" />
+        </attvalues>
+      </node>
+      <node id="ZZ/Top" label="ZZ/Top">
+        <attvalues>
+          <attvalue for="0" value="9273" />
+        </attvalues>
+      </node>
+      <node id="Highly/Suspect" label="Highly/Suspect">
+        <attvalues>
+          <attvalue for="0" value="4182" />
+        </attvalues>
+      </node>
+      <node id="Skillet/(band)" label="Skillet/(band)">
+        <attvalues>
+          <attvalue for="0" value="10676" />
+        </attvalues>
+      </node>
+      <node id="Peter/Gabriel" label="Peter/Gabriel">
+        <attvalues>
+          <attvalue for="0" value="18820" />
+        </attvalues>
+      </node>
+      <node id="Icehouse/(band)" label="Icehouse/(band)">
+        <attvalues>
+          <attvalue for="0" value="8778" />
+        </attvalues>
+      </node>
+      <node id="Hole/(band)" label="Hole/(band)">
+        <attvalues>
+          <attvalue for="0" value="15162" />
+        </attvalues>
+      </node>
+      <node id="Tenacious/D" label="Tenacious/D">
+        <attvalues>
+          <attvalue for="0" value="17155" />
+        </attvalues>
+      </node>
+      <node id="Sex/Pistols" label="Sex/Pistols">
+        <attvalues>
+          <attvalue for="0" value="17004" />
+        </attvalues>
+      </node>
+      <node id="Avenged/Sevenfold" label="Avenged/Sevenfold">
+        <attvalues>
+          <attvalue for="0" value="15057" />
+        </attvalues>
+      </node>
+      <node id="Live/(band)" label="Live/(band)">
+        <attvalues>
+          <attvalue for="0" value="5101" />
+        </attvalues>
+      </node>
+      <node id="10/Years/(band)" label="10/Years/(band)">
+        <attvalues>
+          <attvalue for="0" value="3837" />
+        </attvalues>
+      </node>
+      <node id="Muse/(band)" label="Muse/(band)">
+        <attvalues>
+          <attvalue for="0" value="13871" />
+        </attvalues>
+      </node>
+      <node id="Adam/Ant" label="Adam/Ant">
+        <attvalues>
+          <attvalue for="0" value="13991" />
+        </attvalues>
+      </node>
+      <node id="Bullet/for/My/Valentine" label="Bullet/for/My/Valentine">
+        <attvalues>
+          <attvalue for="0" value="18128" />
+        </attvalues>
+      </node>
+      <node id="Bee/Gees" label="Bee/Gees">
+        <attvalues>
+          <attvalue for="0" value="21261" />
+        </attvalues>
+      </node>
+      <node id="Mudvayne" label="Mudvayne">
+        <attvalues>
+          <attvalue for="0" value="7268" />
+        </attvalues>
+      </node>
+      <node id="Lifehouse/(band)" label="Lifehouse/(band)">
+        <attvalues>
+          <attvalue for="0" value="5699" />
+        </attvalues>
+      </node>
+      <node id="Deftones" label="Deftones">
+        <attvalues>
+          <attvalue for="0" value="18897" />
+        </attvalues>
+      </node>
+      <node id="Filter/(band)" label="Filter/(band)">
+        <attvalues>
+          <attvalue for="0" value="7117" />
+        </attvalues>
+      </node>
+      <node id="Donovan" label="Donovan">
+        <attvalues>
+          <attvalue for="0" value="11057" />
+        </attvalues>
+      </node>
+      <node id="Pixies/(band)" label="Pixies/(band)">
+        <attvalues>
+          <attvalue for="0" value="13357" />
+        </attvalues>
+      </node>
+      <node id="The/Fixx" label="The/Fixx">
+        <attvalues>
+          <attvalue for="0" value="1678" />
+        </attvalues>
+      </node>
+      <node id="Gary/Glitter" label="Gary/Glitter">
+        <attvalues>
+          <attvalue for="0" value="13262" />
+        </attvalues>
+      </node>
+      <node id="The/Four/Seasons/(band)" label="The/Four/Seasons/(band)">
+        <attvalues>
+          <attvalue for="0" value="12855" />
+        </attvalues>
+      </node>
+      <node id="P.O.D." label="P.O.D.">
+        <attvalues>
+          <attvalue for="0" value="7281" />
+        </attvalues>
+      </node>
+      <node id="Halestorm" label="Halestorm">
+        <attvalues>
+          <attvalue for="0" value="5448" />
+        </attvalues>
+      </node>
+      <node id="Tracy/Chapman" label="Tracy/Chapman">
+        <attvalues>
+          <attvalue for="0" value="6134" />
+        </attvalues>
+      </node>
+      <node id="Anthrax/(American/band)" label="Anthrax/(American/band)">
+        <attvalues>
+          <attvalue for="0" value="13434" />
+        </attvalues>
+      </node>
+      <node id="Dashboard/Confessional" label="Dashboard/Confessional">
+        <attvalues>
+          <attvalue for="0" value="5289" />
+        </attvalues>
+      </node>
+      <node id="The/Who" label="The/Who">
+        <attvalues>
+          <attvalue for="0" value="26539" />
+        </attvalues>
+      </node>
+      <node id="Fuel/(band)" label="Fuel/(band)">
+        <attvalues>
+          <attvalue for="0" value="5008" />
+        </attvalues>
+      </node>
+      <node id="Fun/(band)" label="Fun/(band)">
+        <attvalues>
+          <attvalue for="0" value="3674" />
+        </attvalues>
+      </node>
+      <node id="Linda/Ronstadt" label="Linda/Ronstadt">
+        <attvalues>
+          <attvalue for="0" value="27649" />
+        </attvalues>
+      </node>
+      <node id="Bad/Company" label="Bad/Company">
+        <attvalues>
+          <attvalue for="0" value="5254" />
+        </attvalues>
+      </node>
+      <node id="Imagine/Dragons" label="Imagine/Dragons">
+        <attvalues>
+          <attvalue for="0" value="15624" />
+        </attvalues>
+      </node>
+      <node id="Trivium/(band)" label="Trivium/(band)">
+        <attvalues>
+          <attvalue for="0" value="12672" />
+        </attvalues>
+      </node>
+      <node id="Counting/Crows" label="Counting/Crows">
+        <attvalues>
+          <attvalue for="0" value="8537" />
+        </attvalues>
+      </node>
+      <node id="The/Outfield" label="The/Outfield">
+        <attvalues>
+          <attvalue for="0" value="5362" />
+        </attvalues>
+      </node>
+      <node id="FireHouse" label="FireHouse">
+        <attvalues>
+          <attvalue for="0" value="3250" />
+        </attvalues>
+      </node>
+      <node id="Bruce/Springsteen" label="Bruce/Springsteen">
+        <attvalues>
+          <attvalue for="0" value="30371" />
+        </attvalues>
+      </node>
+      <node id="Coldplay" label="Coldplay">
+        <attvalues>
+          <attvalue for="0" value="42148" />
+        </attvalues>
+      </node>
+      <node id="Genesis/(band)" label="Genesis/(band)">
+        <attvalues>
+          <attvalue for="0" value="22862" />
+        </attvalues>
+      </node>
+      <node id="X/Ambassadors" label="X/Ambassadors">
+        <attvalues>
+          <attvalue for="0" value="5137" />
+        </attvalues>
+      </node>
+      <node id="Steve/Miller/Band" label="Steve/Miller/Band">
+        <attvalues>
+          <attvalue for="0" value="3582" />
+        </attvalues>
+      </node>
+      <node id="Alice/Cooper" label="Alice/Cooper">
+        <attvalues>
+          <attvalue for="0" value="26210" />
+        </attvalues>
+      </node>
+      <node id="Good/Charlotte" label="Good/Charlotte">
+        <attvalues>
+          <attvalue for="0" value="11636" />
+        </attvalues>
+      </node>
+      <node id="Rush/(band)" label="Rush/(band)">
+        <attvalues>
+          <attvalue for="0" value="24406" />
+        </attvalues>
+      </node>
+      <node id="Nine/Inch/Nails" label="Nine/Inch/Nails">
+        <attvalues>
+          <attvalue for="0" value="33975" />
+        </attvalues>
+      </node>
+      <node id="Tom/Petty/and/the/Heartbreakers" label="Tom/Petty/and/the/Heartbreakers">
+        <attvalues>
+          <attvalue for="0" value="6110" />
+        </attvalues>
+      </node>
+      <node id="Crosby,/Stills,/Nash/&amp;/Young" label="Crosby,/Stills,/Nash/&amp;/Young">
+        <attvalues>
+          <attvalue for="0" value="13895" />
+        </attvalues>
+      </node>
+      <node id="The/Offspring" label="The/Offspring">
+        <attvalues>
+          <attvalue for="0" value="13553" />
+        </attvalues>
+      </node>
+      <node id="Papa/Roach" label="Papa/Roach">
+        <attvalues>
+          <attvalue for="0" value="15422" />
+        </attvalues>
+      </node>
+      <node id="Mötley/Crüe" label="Mötley/Crüe">
+        <attvalues>
+          <attvalue for="0" value="28083" />
+        </attvalues>
+      </node>
+      <node id="Evanescence" label="Evanescence">
+        <attvalues>
+          <attvalue for="0" value="26893" />
+        </attvalues>
+      </node>
+      <node id="Florence/and/the/Machine" label="Florence/and/the/Machine">
+        <attvalues>
+          <attvalue for="0" value="15437" />
+        </attvalues>
+      </node>
+      <node id="Everclear/(band)" label="Everclear/(band)">
+        <attvalues>
+          <attvalue for="0" value="5417" />
+        </attvalues>
+      </node>
+      <node id="Aerosmith" label="Aerosmith">
+        <attvalues>
+          <attvalue for="0" value="28359" />
+        </attvalues>
+      </node>
+      <node id="Catfish/and/the/Bottlemen" label="Catfish/and/the/Bottlemen">
+        <attvalues>
+          <attvalue for="0" value="8540" />
+        </attvalues>
+      </node>
+      <node id="Finger/Eleven" label="Finger/Eleven">
+        <attvalues>
+          <attvalue for="0" value="5265" />
+        </attvalues>
+      </node>
+      <node id="Ten/Years/After" label="Ten/Years/After">
+        <attvalues>
+          <attvalue for="0" value="2464" />
+        </attvalues>
+      </node>
+      <node id="Traveling/Wilburys" label="Traveling/Wilburys">
+        <attvalues>
+          <attvalue for="0" value="9085" />
+        </attvalues>
+      </node>
+      <node id="Train/(band)" label="Train/(band)">
+        <attvalues>
+          <attvalue for="0" value="10755" />
+        </attvalues>
+      </node>
+      <node id="Shinedown" label="Shinedown">
+        <attvalues>
+          <attvalue for="0" value="11533" />
+        </attvalues>
+      </node>
+      <node id="Iggy/Pop" label="Iggy/Pop">
+        <attvalues>
+          <attvalue for="0" value="16233" />
+        </attvalues>
+      </node>
+      <node id="Crowded/House" label="Crowded/House">
+        <attvalues>
+          <attvalue for="0" value="9658" />
+        </attvalues>
+      </node>
+      <node id="Blur/(band)" label="Blur/(band)">
+        <attvalues>
+          <attvalue for="0" value="12001" />
+        </attvalues>
+      </node>
+      <node id="The/Doobie/Brothers" label="The/Doobie/Brothers">
+        <attvalues>
+          <attvalue for="0" value="10640" />
+        </attvalues>
+      </node>
+      <node id="John/Mellencamp" label="John/Mellencamp">
+        <attvalues>
+          <attvalue for="0" value="14304" />
+        </attvalues>
+      </node>
+      <node id="Whitesnake" label="Whitesnake">
+        <attvalues>
+          <attvalue for="0" value="24812" />
+        </attvalues>
+      </node>
+      <node id="The/Allman/Brothers/Band" label="The/Allman/Brothers/Band">
+        <attvalues>
+          <attvalue for="0" value="12138" />
+        </attvalues>
+      </node>
+      <node id="rock/music" label="rock/music">
+        <attvalues>
+          <attvalue for="0" value="27783" />
+        </attvalues>
+      </node>
+      <node id="Primus/(band)" label="Primus/(band)">
+        <attvalues>
+          <attvalue for="0" value="13260" />
+        </attvalues>
+      </node>
+      <node id="Silverchair" label="Silverchair">
+        <attvalues>
+          <attvalue for="0" value="14131" />
+        </attvalues>
+      </node>
+      <node id="Montgomery/Gentry" label="Montgomery/Gentry">
+        <attvalues>
+          <attvalue for="0" value="8077" />
+        </attvalues>
+      </node>
+      <node id="Death/Cab/for/Cutie" label="Death/Cab/for/Cutie">
+        <attvalues>
+          <attvalue for="0" value="9305" />
+        </attvalues>
+      </node>
+      <node id="Metallica" label="Metallica">
+        <attvalues>
+          <attvalue for="0" value="31734" />
+        </attvalues>
+      </node>
+      <node id="Simon/&amp;/Garfunkel" label="Simon/&amp;/Garfunkel">
+        <attvalues>
+          <attvalue for="0" value="11965" />
+        </attvalues>
+      </node>
+      <node id="Gene/Vincent" label="Gene/Vincent">
+        <attvalues>
+          <attvalue for="0" value="6469" />
+        </attvalues>
+      </node>
+      <node id="Cinderella/(band)" label="Cinderella/(band)">
+        <attvalues>
+          <attvalue for="0" value="3533" />
+        </attvalues>
+      </node>
+      <node id="Fall/Out/Boy" label="Fall/Out/Boy">
+        <attvalues>
+          <attvalue for="0" value="34548" />
+        </attvalues>
+      </node>
+      <node id="Jane's/Addiction" label="Jane's/Addiction">
+        <attvalues>
+          <attvalue for="0" value="12869" />
+        </attvalues>
+      </node>
+      <node id="Seether" label="Seether">
+        <attvalues>
+          <attvalue for="0" value="6494" />
+        </attvalues>
+      </node>
+      <node id="The/Pretty/Reckless" label="The/Pretty/Reckless">
+        <attvalues>
+          <attvalue for="0" value="12554" />
+        </attvalues>
+      </node>
+      <node id="The/All-American/Rejects" label="The/All-American/Rejects">
+        <attvalues>
+          <attvalue for="0" value="8525" />
+        </attvalues>
+      </node>
+      <node id="Badfinger" label="Badfinger">
+        <attvalues>
+          <attvalue for="0" value="13034" />
+        </attvalues>
+      </node>
+      <node id="The/J./Geils/Band" label="The/J./Geils/Band">
+        <attvalues>
+          <attvalue for="0" value="4530" />
+        </attvalues>
+      </node>
+      <node id="George/Harrison" label="George/Harrison">
+        <attvalues>
+          <attvalue for="0" value="24094" />
+        </attvalues>
+      </node>
+      <node id="Thin/Lizzy" label="Thin/Lizzy">
+        <attvalues>
+          <attvalue for="0" value="13401" />
+        </attvalues>
+      </node>
+      <node id="Rise/Against" label="Rise/Against">
+        <attvalues>
+          <attvalue for="0" value="16337" />
+        </attvalues>
+      </node>
+      <node id="Steely/Dan" label="Steely/Dan">
+        <attvalues>
+          <attvalue for="0" value="9597" />
+        </attvalues>
+      </node>
+      <node id="America/(band)" label="America/(band)">
+        <attvalues>
+          <attvalue for="0" value="7670" />
+        </attvalues>
+      </node>
+      <node id="Ramones" label="Ramones">
+        <attvalues>
+          <attvalue for="0" value="17259" />
+        </attvalues>
+      </node>
+      <node id="R.E.M." label="R.E.M.">
+        <attvalues>
+          <attvalue for="0" value="18085" />
+        </attvalues>
+      </node>
+      <node id="Lacuna/Coil" label="Lacuna/Coil">
+        <attvalues>
+          <attvalue for="0" value="6400" />
+        </attvalues>
+      </node>
+      <node id="Gin/Blossoms" label="Gin/Blossoms">
+        <attvalues>
+          <attvalue for="0" value="4280" />
+        </attvalues>
+      </node>
+      <node id="Pantera" label="Pantera">
+        <attvalues>
+          <attvalue for="0" value="15451" />
+        </attvalues>
+      </node>
+      <node id="Everlast" label="Everlast">
+        <attvalues>
+          <attvalue for="0" value="4005" />
+        </attvalues>
+      </node>
+      <node id="U2" label="U2">
+        <attvalues>
+          <attvalue for="0" value="39117" />
+        </attvalues>
+      </node>
+      <node id="Chevelle/(band)" label="Chevelle/(band)">
+        <attvalues>
+          <attvalue for="0" value="14511" />
+        </attvalues>
+      </node>
+      <node id="AFI/(band)" label="AFI/(band)">
+        <attvalues>
+          <attvalue for="0" value="8765" />
+        </attvalues>
+      </node>
+      <node id="Pat/Benatar" label="Pat/Benatar">
+        <attvalues>
+          <attvalue for="0" value="8619" />
+        </attvalues>
+      </node>
+      <node id="Buddy/Holly" label="Buddy/Holly">
+        <attvalues>
+          <attvalue for="0" value="11826" />
+        </attvalues>
+      </node>
+      <node id="Slade" label="Slade">
+        <attvalues>
+          <attvalue for="0" value="19022" />
+        </attvalues>
+      </node>
+      <node id="Arcade/Fire" label="Arcade/Fire">
+        <attvalues>
+          <attvalue for="0" value="15269" />
+        </attvalues>
+      </node>
+      <node id="Stevie/Ray/Vaughan" label="Stevie/Ray/Vaughan">
+        <attvalues>
+          <attvalue for="0" value="15242" />
+        </attvalues>
+      </node>
+      <node id="T./Rex/(band)" label="T./Rex/(band)">
+        <attvalues>
+          <attvalue for="0" value="9406" />
+        </attvalues>
+      </node>
+      <node id="Kings/of/Leon" label="Kings/of/Leon">
+        <attvalues>
+          <attvalue for="0" value="7062" />
+        </attvalues>
+      </node>
+      <node id="AllMusic" label="AllMusic">
+        <attvalues>
+          <attvalue for="0" value="1834" />
+        </attvalues>
+      </node>
+      <node id="Heart/(band)" label="Heart/(band)">
+        <attvalues>
+          <attvalue for="0" value="11893" />
+        </attvalues>
+      </node>
+      <node id="Motörhead" label="Motörhead">
+        <attvalues>
+          <attvalue for="0" value="20263" />
+        </attvalues>
+      </node>
+      <node id="Nirvana/(band)" label="Nirvana/(band)">
+        <attvalues>
+          <attvalue for="0" value="13799" />
+        </attvalues>
+      </node>
+      <node id="Little/Richard" label="Little/Richard">
+        <attvalues>
+          <attvalue for="0" value="23786" />
+        </attvalues>
+      </node>
+      <node id="Rob/Zombie" label="Rob/Zombie">
+        <attvalues>
+          <attvalue for="0" value="18372" />
+        </attvalues>
+      </node>
+      <node id="Dallas/Green/(musician)" label="Dallas/Green/(musician)">
+        <attvalues>
+          <attvalue for="0" value="7961" />
+        </attvalues>
+      </node>
+      <node id="The/Beach/Boys" label="The/Beach/Boys">
+        <attvalues>
+          <attvalue for="0" value="34169" />
+        </attvalues>
+      </node>
+      <node id="Jefferson/Airplane" label="Jefferson/Airplane">
+        <attvalues>
+          <attvalue for="0" value="12009" />
+        </attvalues>
+      </node>
+      <node id="System/of/a/Down" label="System/of/a/Down">
+        <attvalues>
+          <attvalue for="0" value="17146" />
+        </attvalues>
+      </node>
+      <node id="Sixto/Rodriguez" label="Sixto/Rodriguez">
+        <attvalues>
+          <attvalue for="0" value="7004" />
+        </attvalues>
+      </node>
+      <node id="Blue/October" label="Blue/October">
+        <attvalues>
+          <attvalue for="0" value="5656" />
+        </attvalues>
+      </node>
+      <node id="The/Cult" label="The/Cult">
+        <attvalues>
+          <attvalue for="0" value="13721" />
+        </attvalues>
+      </node>
+      <node id="The/Flaming/Lips" label="The/Flaming/Lips">
+        <attvalues>
+          <attvalue for="0" value="10459" />
+        </attvalues>
+      </node>
+      <node id="Creed/(band)" label="Creed/(band)">
+        <attvalues>
+          <attvalue for="0" value="11175" />
+        </attvalues>
+      </node>
+      <node id="The/Lumineers" label="The/Lumineers">
+        <attvalues>
+          <attvalue for="0" value="8916" />
+        </attvalues>
+      </node>
+      <node id="Twisted/Sister" label="Twisted/Sister">
+        <attvalues>
+          <attvalue for="0" value="6700" />
+        </attvalues>
+      </node>
+      <node id="Bush/(British/band)" label="Bush/(British/band)">
+        <attvalues>
+          <attvalue for="0" value="6499" />
+        </attvalues>
+      </node>
+      <node id="Audioslave" label="Audioslave">
+        <attvalues>
+          <attvalue for="0" value="12607" />
+        </attvalues>
+      </node>
+      <node id="Flyleaf/(band)" label="Flyleaf/(band)">
+        <attvalues>
+          <attvalue for="0" value="6350" />
+        </attvalues>
+      </node>
+      <node id="The/Kinks" label="The/Kinks">
+        <attvalues>
+          <attvalue for="0" value="18180" />
+        </attvalues>
+      </node>
+      <node id="Alter/Bridge" label="Alter/Bridge">
+        <attvalues>
+          <attvalue for="0" value="11246" />
+        </attvalues>
+      </node>
+      <node id="Paramore" label="Paramore">
+        <attvalues>
+          <attvalue for="0" value="27438" />
+        </attvalues>
+      </node>
+      <node id="Three/Dog/Night" label="Three/Dog/Night">
+        <attvalues>
+          <attvalue for="0" value="5223" />
+        </attvalues>
+      </node>
+      <node id="Kenny/Loggins" label="Kenny/Loggins">
+        <attvalues>
+          <attvalue for="0" value="6437" />
+        </attvalues>
+      </node>
+      <node id="311/(band)" label="311/(band)">
+        <attvalues>
+          <attvalue for="0" value="7711" />
+        </attvalues>
+      </node>
+      <node id="Cream/(band)" label="Cream/(band)">
+        <attvalues>
+          <attvalue for="0" value="6204" />
+        </attvalues>
+      </node>
+      <node id="Killswitch/Engage" label="Killswitch/Engage">
+        <attvalues>
+          <attvalue for="0" value="10592" />
+        </attvalues>
+      </node>
+      <node id="W.A.S.P./(band)" label="W.A.S.P./(band)">
+        <attvalues>
+          <attvalue for="0" value="5944" />
+        </attvalues>
+      </node>
+      <node id="Blondie/(band)" label="Blondie/(band)">
+        <attvalues>
+          <attvalue for="0" value="10968" />
+        </attvalues>
+      </node>
+      <node id="The/Zombies" label="The/Zombies">
+        <attvalues>
+          <attvalue for="0" value="8317" />
+        </attvalues>
+      </node>
+      <node id="Damn/Yankees/(band)" label="Damn/Yankees/(band)">
+        <attvalues>
+          <attvalue for="0" value="2303" />
+        </attvalues>
+      </node>
+      <node id="Daughtry/(band)" label="Daughtry/(band)">
+        <attvalues>
+          <attvalue for="0" value="7397" />
+        </attvalues>
+      </node>
+      <node id="Soundgarden" label="Soundgarden">
+        <attvalues>
+          <attvalue for="0" value="18526" />
+        </attvalues>
+      </node>
+      <node id="Royal/Blood/(band)" label="Royal/Blood/(band)">
+        <attvalues>
+          <attvalue for="0" value="4857" />
+        </attvalues>
+      </node>
+      <node id="Twenty/One/Pilots" label="Twenty/One/Pilots">
+        <attvalues>
+          <attvalue for="0" value="28698" />
+        </attvalues>
+      </node>
+      <node id="Bring/Me/the/Horizon" label="Bring/Me/the/Horizon">
+        <attvalues>
+          <attvalue for="0" value="29274" />
+        </attvalues>
+      </node>
+      <node id="Emerson,/Lake/&amp;/Palmer" label="Emerson,/Lake/&amp;/Palmer">
+        <attvalues>
+          <attvalue for="0" value="9822" />
+        </attvalues>
+      </node>
+      <node id="Mitch/Ryder" label="Mitch/Ryder">
+        <attvalues>
+          <attvalue for="0" value="2325" />
+        </attvalues>
+      </node>
+      <node id="The/Sweet" label="The/Sweet">
+        <attvalues>
+          <attvalue for="0" value="9957" />
+        </attvalues>
+      </node>
+      <node id="Chris/Rea" label="Chris/Rea">
+        <attvalues>
+          <attvalue for="0" value="10229" />
+        </attvalues>
+      </node>
+      <node id="Skid/Row/(American/band)" label="Skid/Row/(American/band)">
+        <attvalues>
+          <attvalue for="0" value="8033" />
+        </attvalues>
+      </node>
+      <node id="James/Blunt" label="James/Blunt">
+        <attvalues>
+          <attvalue for="0" value="10880" />
+        </attvalues>
+      </node>
+      <node id="Stone/Temple/Pilots" label="Stone/Temple/Pilots">
+        <attvalues>
+          <attvalue for="0" value="9523" />
+        </attvalues>
+      </node>
+      <node id="Sublime/with/Rome" label="Sublime/with/Rome">
+        <attvalues>
+          <attvalue for="0" value="5218" />
+        </attvalues>
+      </node>
+      <node id="Chuck/Berry" label="Chuck/Berry">
+        <attvalues>
+          <attvalue for="0" value="11827" />
+        </attvalues>
+      </node>
+      <node id="Morrissey" label="Morrissey">
+        <attvalues>
+          <attvalue for="0" value="27951" />
+        </attvalues>
+      </node>
+      <node id="Jet/(Australian/band)" label="Jet/(Australian/band)">
+        <attvalues>
+          <attvalue for="0" value="10545" />
+        </attvalues>
+      </node>
+      <node id="Tool/(band)" label="Tool/(band)">
+        <attvalues>
+          <attvalue for="0" value="19175" />
+        </attvalues>
+      </node>
+      <node id="Duran/Duran" label="Duran/Duran">
+        <attvalues>
+          <attvalue for="0" value="18046" />
+        </attvalues>
+      </node>
+      <node id="Bryan/Adams" label="Bryan/Adams">
+        <attvalues>
+          <attvalue for="0" value="35410" />
+        </attvalues>
+      </node>
+      <node id="Jethro/Tull/(band)" label="Jethro/Tull/(band)">
+        <attvalues>
+          <attvalue for="0" value="11630" />
+        </attvalues>
+      </node>
+      <node id="Sum/41" label="Sum/41">
+        <attvalues>
+          <attvalue for="0" value="29033" />
+        </attvalues>
+      </node>
+      <node id="Collective/Soul" label="Collective/Soul">
+        <attvalues>
+          <attvalue for="0" value="5192" />
+        </attvalues>
+      </node>
+      <node id="Status/Quo/(band)" label="Status/Quo/(band)">
+        <attvalues>
+          <attvalue for="0" value="9506" />
+        </attvalues>
+      </node>
+      <node id="England/Dan/&amp;/John/Ford/Coley" label="England/Dan/&amp;/John/Ford/Coley">
+        <attvalues>
+          <attvalue for="0" value="2136" />
+        </attvalues>
+      </node>
+      <node id="The/Police" label="The/Police">
+        <attvalues>
+          <attvalue for="0" value="11862" />
+        </attvalues>
+      </node>
+      <node id="Journey/(band)" label="Journey/(band)">
+        <attvalues>
+          <attvalue for="0" value="12418" />
+        </attvalues>
+      </node>
+      <node id="Coheed/and/Cambria" label="Coheed/and/Cambria">
+        <attvalues>
+          <attvalue for="0" value="10378" />
+        </attvalues>
+      </node>
+      <node id="The/Killers" label="The/Killers">
+        <attvalues>
+          <attvalue for="0" value="18385" />
+        </attvalues>
+      </node>
+      <node id="John/Mayer" label="John/Mayer">
+        <attvalues>
+          <attvalue for="0" value="25357" />
+        </attvalues>
+      </node>
+      <node id="April/Wine" label="April/Wine">
+        <attvalues>
+          <attvalue for="0" value="5467" />
+        </attvalues>
+      </node>
+      <node id="Sepultura" label="Sepultura">
+        <attvalues>
+          <attvalue for="0" value="13738" />
+        </attvalues>
+      </node>
+      <node id="Tesla/(band)" label="Tesla/(band)">
+        <attvalues>
+          <attvalue for="0" value="4196" />
+        </attvalues>
+      </node>
+      <node id="Iron/Maiden" label="Iron/Maiden">
+        <attvalues>
+          <attvalue for="0" value="24633" />
+        </attvalues>
+      </node>
+      <node id="Jackson/Browne" label="Jackson/Browne">
+        <attvalues>
+          <attvalue for="0" value="7711" />
+        </attvalues>
+      </node>
+      <node id="No/Doubt" label="No/Doubt">
+        <attvalues>
+          <attvalue for="0" value="9716" />
+        </attvalues>
+      </node>
+      <node id="Electric/Light/Orchestra" label="Electric/Light/Orchestra">
+        <attvalues>
+          <attvalue for="0" value="8792" />
+        </attvalues>
+      </node>
+      <node id="Green/Day" label="Green/Day">
+        <attvalues>
+          <attvalue for="0" value="31433" />
+        </attvalues>
+      </node>
+      <node id="Jimi/Hendrix" label="Jimi/Hendrix">
+        <attvalues>
+          <attvalue for="0" value="26355" />
+        </attvalues>
+      </node>
+      <node id="Volbeat" label="Volbeat">
+        <attvalues>
+          <attvalue for="0" value="5741" />
+        </attvalues>
+      </node>
+      <node id="The/Byrds" label="The/Byrds">
+        <attvalues>
+          <attvalue for="0" value="26629" />
+        </attvalues>
+      </node>
+      <node id="Vampire/Weekend" label="Vampire/Weekend">
+        <attvalues>
+          <attvalue for="0" value="9378" />
+        </attvalues>
+      </node>
+      <node id="Red/Hot/Chili/Peppers" label="Red/Hot/Chili/Peppers">
+        <attvalues>
+          <attvalue for="0" value="22030" />
+        </attvalues>
+      </node>
+      <node id="Bay/City/Rollers" label="Bay/City/Rollers">
+        <attvalues>
+          <attvalue for="0" value="11503" />
+        </attvalues>
+      </node>
+      <node id="Avril/Lavigne" label="Avril/Lavigne">
+        <attvalues>
+          <attvalue for="0" value="35283" />
+        </attvalues>
+      </node>
+      <node id="The/Cars" label="The/Cars">
+        <attvalues>
+          <attvalue for="0" value="3826" />
+        </attvalues>
+      </node>
+      <node id="Air/Supply" label="Air/Supply">
+        <attvalues>
+          <attvalue for="0" value="7432" />
+        </attvalues>
+      </node>
+      <node id="The/Yardbirds" label="The/Yardbirds">
+        <attvalues>
+          <attvalue for="0" value="8055" />
+        </attvalues>
+      </node>
+      <node id="Parliament-Funkadelic" label="Parliament-Funkadelic">
+        <attvalues>
+          <attvalue for="0" value="4792" />
+        </attvalues>
+      </node>
+      <node id="Chris/Cornell" label="Chris/Cornell">
+        <attvalues>
+          <attvalue for="0" value="32166" />
+        </attvalues>
+      </node>
+      <node id="Grand/Funk/Railroad" label="Grand/Funk/Railroad">
+        <attvalues>
+          <attvalue for="0" value="4851" />
+        </attvalues>
+      </node>
+      <node id="Beck" label="Beck">
+        <attvalues>
+          <attvalue for="0" value="17729" />
+        </attvalues>
+      </node>
+      <node id="Arctic/Monkeys" label="Arctic/Monkeys">
+        <attvalues>
+          <attvalue for="0" value="23695" />
+        </attvalues>
+      </node>
+      <node id="Yes/(band)" label="Yes/(band)">
+        <attvalues>
+          <attvalue for="0" value="19559" />
+        </attvalues>
+      </node>
+      <node id="Smash/Mouth" label="Smash/Mouth">
+        <attvalues>
+          <attvalue for="0" value="6398" />
+        </attvalues>
+      </node>
+      <node id="Neil/Young" label="Neil/Young">
+        <attvalues>
+          <attvalue for="0" value="26345" />
+        </attvalues>
+      </node>
+      <node id="Hinder" label="Hinder">
+        <attvalues>
+          <attvalue for="0" value="5928" />
+        </attvalues>
+      </node>
+      <node id="Jerry/Lee/Lewis" label="Jerry/Lee/Lewis">
+        <attvalues>
+          <attvalue for="0" value="13887" />
+        </attvalues>
+      </node>
+      <node id="Megadeth" label="Megadeth">
+        <attvalues>
+          <attvalue for="0" value="27683" />
+        </attvalues>
+      </node>
+      <node id="Ritchie/Valens" label="Ritchie/Valens">
+        <attvalues>
+          <attvalue for="0" value="5958" />
+        </attvalues>
+      </node>
+      <node id="Supertramp" label="Supertramp">
+        <attvalues>
+          <attvalue for="0" value="7506" />
+        </attvalues>
+      </node>
+      <node id="Drowning/Pool" label="Drowning/Pool">
+        <attvalues>
+          <attvalue for="0" value="5080" />
+        </attvalues>
+      </node>
+      <node id="Billy/Joel" label="Billy/Joel">
+        <attvalues>
+          <attvalue for="0" value="26182" />
+        </attvalues>
+      </node>
+      <node id="Five/for/Fighting" label="Five/for/Fighting">
+        <attvalues>
+          <attvalue for="0" value="10037" />
+        </attvalues>
+      </node>
+      <node id="The/Monkees" label="The/Monkees">
+        <attvalues>
+          <attvalue for="0" value="15944" />
+        </attvalues>
+      </node>
+      <node id="Fleetwood/Mac" label="Fleetwood/Mac">
+        <attvalues>
+          <attvalue for="0" value="18482" />
+        </attvalues>
+      </node>
+      <node id="Alice/Cooper/(band)" label="Alice/Cooper/(band)">
+        <attvalues>
+          <attvalue for="0" value="5784" />
+        </attvalues>
+      </node>
+      <node id="Kaiser/Chiefs" label="Kaiser/Chiefs">
+        <attvalues>
+          <attvalue for="0" value="6173" />
+        </attvalues>
+      </node>
+      <node id="Elvis/Costello" label="Elvis/Costello">
+        <attvalues>
+          <attvalue for="0" value="26315" />
+        </attvalues>
+      </node>
+      <node id="Dropkick/Murphys" label="Dropkick/Murphys">
+        <attvalues>
+          <attvalue for="0" value="13279" />
+        </attvalues>
+      </node>
+      <node id="Goo/Goo/Dolls" label="Goo/Goo/Dolls">
+        <attvalues>
+          <attvalue for="0" value="7233" />
+        </attvalues>
+      </node>
+      <node id="Golden/Earring" label="Golden/Earring">
+        <attvalues>
+          <attvalue for="0" value="3399" />
+        </attvalues>
+      </node>
+      <node id="Chicago/(band)" label="Chicago/(band)">
+        <attvalues>
+          <attvalue for="0" value="34199" />
+        </attvalues>
+      </node>
+      <node id="The/Verve" label="The/Verve">
+        <attvalues>
+          <attvalue for="0" value="6670" />
+        </attvalues>
+      </node>
+      <node id="Sam/Fender" label="Sam/Fender">
+        <attvalues>
+          <attvalue for="0" value="24385" />
+        </attvalues>
+      </node>
+      <node id="Foo/Fighters" label="Foo/Fighters">
+        <attvalues>
+          <attvalue for="0" value="17673" />
+        </attvalues>
+      </node>
+      <node id="Fats/Domino" label="Fats/Domino">
+        <attvalues>
+          <attvalue for="0" value="7961" />
+        </attvalues>
+      </node>
+      <node id="Men/at/Work" label="Men/at/Work">
+        <attvalues>
+          <attvalue for="0" value="6486" />
+        </attvalues>
+      </node>
+      <node id="Velvet/Revolver" label="Velvet/Revolver">
+        <attvalues>
+          <attvalue for="0" value="9372" />
+        </attvalues>
+      </node>
+      <node id="ABBA" label="ABBA">
+        <attvalues>
+          <attvalue for="0" value="22912" />
+        </attvalues>
+      </node>
+      <node id="Three/Days/Grace" label="Three/Days/Grace">
+        <attvalues>
+          <attvalue for="0" value="18356" />
+        </attvalues>
+      </node>
+      <node id="Eagles/(band)" label="Eagles/(band)">
+        <attvalues>
+          <attvalue for="0" value="14941" />
+        </attvalues>
+      </node>
+      <node id="The/Jam" label="The/Jam">
+        <attvalues>
+          <attvalue for="0" value="7805" />
+        </attvalues>
+      </node>
+      <node id="Joy/Division" label="Joy/Division">
+        <attvalues>
+          <attvalue for="0" value="8282" />
+        </attvalues>
+      </node>
+      <node id="The/Velvet/Underground" label="The/Velvet/Underground">
+        <attvalues>
+          <attvalue for="0" value="13880" />
+        </attvalues>
+      </node>
+      <node id="Jeff/Buckley" label="Jeff/Buckley">
+        <attvalues>
+          <attvalue for="0" value="12338" />
+        </attvalues>
+      </node>
+      <node id="Greta/Van/Fleet" label="Greta/Van/Fleet">
+        <attvalues>
+          <attvalue for="0" value="8928" />
+        </attvalues>
+      </node>
+      <node id="Blue/Öyster/Cult" label="Blue/Öyster/Cult">
+        <attvalues>
+          <attvalue for="0" value="10102" />
+        </attvalues>
+      </node>
+      <node id="Sonic/Youth" label="Sonic/Youth">
+        <attvalues>
+          <attvalue for="0" value="11220" />
+        </attvalues>
+      </node>
+      <node id="Beastie/Boys" label="Beastie/Boys">
+        <attvalues>
+          <attvalue for="0" value="18812" />
+        </attvalues>
+      </node>
+      <node id="Radiohead" label="Radiohead">
+        <attvalues>
+          <attvalue for="0" value="30708" />
+        </attvalues>
+      </node>
+      <node id="Blink-182" label="Blink-182">
+        <attvalues>
+          <attvalue for="0" value="19975" />
+        </attvalues>
+      </node>
+      <node id="Garbage/(band)" label="Garbage/(band)">
+        <attvalues>
+          <attvalue for="0" value="15004" />
+        </attvalues>
+      </node>
+      <node id="The/Jesus/and/Mary/Chain" label="The/Jesus/and/Mary/Chain">
+        <attvalues>
+          <attvalue for="0" value="8620" />
+        </attvalues>
+      </node>
+      <node id="Bo/Diddley" label="Bo/Diddley">
+        <attvalues>
+          <attvalue for="0" value="11799" />
+        </attvalues>
+      </node>
+      <node id="The/Lovin'/Spoonful" label="The/Lovin'/Spoonful">
+        <attvalues>
+          <attvalue for="0" value="24380" />
+        </attvalues>
+      </node>
+      <node id="Faith/No/More" label="Faith/No/More">
+        <attvalues>
+          <attvalue for="0" value="14435" />
+        </attvalues>
+      </node>
+      <node id="Billy/Squier" label="Billy/Squier">
+        <attvalues>
+          <attvalue for="0" value="4200" />
+        </attvalues>
+      </node>
+      <node id="Queens/of/the/Stone/Age" label="Queens/of/the/Stone/Age">
+        <attvalues>
+          <attvalue for="0" value="13117" />
+        </attvalues>
+      </node>
+      <node id="The/Everly/Brothers" label="The/Everly/Brothers">
+        <attvalues>
+          <attvalue for="0" value="8348" />
+        </attvalues>
+      </node>
+      <node id="Marilyn/Manson/(band)" label="Marilyn/Manson/(band)">
+        <attvalues>
+          <attvalue for="0" value="41599" />
+        </attvalues>
+      </node>
+      <node id="David/Bowie" label="David/Bowie">
+        <attvalues>
+          <attvalue for="0" value="38170" />
+        </attvalues>
+      </node>
+      <node id="Paul/McCartney" label="Paul/McCartney">
+        <attvalues>
+          <attvalue for="0" value="38099" />
+        </attvalues>
+      </node>
+      <node id="Godsmack" label="Godsmack">
+        <attvalues>
+          <attvalue for="0" value="12770" />
+        </attvalues>
+      </node>
+      <node id="Hall/&amp;/Oates" label="Hall/&amp;/Oates">
+        <attvalues>
+          <attvalue for="0" value="10625" />
+        </attvalues>
+      </node>
+      <node id="Tom/Petty" label="Tom/Petty">
+        <attvalues>
+          <attvalue for="0" value="13735" />
+        </attvalues>
+      </node>
+      <node id="The/Animals" label="The/Animals">
+        <attvalues>
+          <attvalue for="0" value="4468" />
+        </attvalues>
+      </node>
+      <node id="White/Zombie/(band)" label="White/Zombie/(band)">
+        <attvalues>
+          <attvalue for="0" value="4265" />
+        </attvalues>
+      </node>
+      <node id="The/Band" label="The/Band">
+        <attvalues>
+          <attvalue for="0" value="12743" />
+        </attvalues>
+      </node>
+      <node id="The/Go-Go's" label="The/Go-Go's">
+        <attvalues>
+          <attvalue for="0" value="6081" />
+        </attvalues>
+      </node>
+      <node id="The/Cranberries" label="The/Cranberries">
+        <attvalues>
+          <attvalue for="0" value="17789" />
+        </attvalues>
+      </node>
+      <node id="Bon/Jovi" label="Bon/Jovi">
+        <attvalues>
+          <attvalue for="0" value="13413" />
+        </attvalues>
+      </node>
+      <node id="Phil/Collins" label="Phil/Collins">
+        <attvalues>
+          <attvalue for="0" value="28034" />
+        </attvalues>
+      </node>
+      <node id="Interpol/(band)" label="Interpol/(band)">
+        <attvalues>
+          <attvalue for="0" value="5715" />
+        </attvalues>
+      </node>
+      <node id="The/Cab" label="The/Cab">
+        <attvalues>
+          <attvalue for="0" value="7514" />
+        </attvalues>
+      </node>
+      <node id="Alice/in/Chains" label="Alice/in/Chains">
+        <attvalues>
+          <attvalue for="0" value="30324" />
+        </attvalues>
+      </node>
+      <node id="Scorpions/(band)" label="Scorpions/(band)">
+        <attvalues>
+          <attvalue for="0" value="9999" />
+        </attvalues>
+      </node>
+      <node id="Led/Zeppelin" label="Led/Zeppelin">
+        <attvalues>
+          <attvalue for="0" value="19598" />
+        </attvalues>
+      </node>
+      <node id="Billy/Idol" label="Billy/Idol">
+        <attvalues>
+          <attvalue for="0" value="9465" />
+        </attvalues>
+      </node>
+      <node id="Third/Eye/Blind" label="Third/Eye/Blind">
+        <attvalues>
+          <attvalue for="0" value="12793" />
+        </attvalues>
+      </node>
+      <node id="Warrant/(American/band)" label="Warrant/(American/band)">
+        <attvalues>
+          <attvalue for="0" value="4473" />
+        </attvalues>
+      </node>
+      <node id="Boston/(band)" label="Boston/(band)">
+        <attvalues>
+          <attvalue for="0" value="7847" />
+        </attvalues>
+      </node>
+      <node id="Manfred/Mann/(musician)" label="Manfred/Mann/(musician)">
+        <attvalues>
+          <attvalue for="0" value="2245" />
+        </attvalues>
+      </node>
+      <node id="The/Clash" label="The/Clash">
+        <attvalues>
+          <attvalue for="0" value="14323" />
+        </attvalues>
+      </node>
+      <node id="Little/River/Band" label="Little/River/Band">
+        <attvalues>
+          <attvalue for="0" value="16411" />
+        </attvalues>
+      </node>
+      <node id="Joe/Satriani" label="Joe/Satriani">
+        <attvalues>
+          <attvalue for="0" value="8252" />
+        </attvalues>
+      </node>
+      <node id="Parliament/(band)" label="Parliament/(band)">
+        <attvalues>
+          <attvalue for="0" value="1572" />
+        </attvalues>
+      </node>
+      <node id="Buckcherry" label="Buckcherry">
+        <attvalues>
+          <attvalue for="0" value="4245" />
+        </attvalues>
+      </node>
+      <node id="Canned/Heat" label="Canned/Heat">
+        <attvalues>
+          <attvalue for="0" value="6279" />
+        </attvalues>
+      </node>
+      <node id="Creedence/Clearwater/Revival" label="Creedence/Clearwater/Revival">
+        <attvalues>
+          <attvalue for="0" value="9576" />
+        </attvalues>
+      </node>
+      <node id="Bowling/for/Soup" label="Bowling/for/Soup">
+        <attvalues>
+          <attvalue for="0" value="9918" />
+        </attvalues>
+      </node>
+      <node id="The/Mothers/of/Invention" label="The/Mothers/of/Invention">
+        <attvalues>
+          <attvalue for="0" value="7101" />
+        </attvalues>
+      </node>
+      <node id="Social/Distortion" label="Social/Distortion">
+        <attvalues>
+          <attvalue for="0" value="8523" />
+        </attvalues>
+      </node>
+      <node id="Depeche/Mode" label="Depeche/Mode">
+        <attvalues>
+          <attvalue for="0" value="19104" />
+        </attvalues>
+      </node>
+      <node id="Sly/and/the/Family/Stone" label="Sly/and/the/Family/Stone">
+        <attvalues>
+          <attvalue for="0" value="8551" />
+        </attvalues>
+      </node>
+      <node id="Saving/Abel" label="Saving/Abel">
+        <attvalues>
+          <attvalue for="0" value="2063" />
+        </attvalues>
+      </node>
+      <node id="The/Beatles" label="The/Beatles">
+        <attvalues>
+          <attvalue for="0" value="32544" />
+        </attvalues>
+      </node>
+      <node id="Loverboy" label="Loverboy">
+        <attvalues>
+          <attvalue for="0" value="3395" />
+        </attvalues>
+      </node>
+      <node id="Ratt" label="Ratt">
+        <attvalues>
+          <attvalue for="0" value="6938" />
+        </attvalues>
+      </node>
+      <node id="Travis/(band)" label="Travis/(band)">
+        <attvalues>
+          <attvalue for="0" value="6786" />
+        </attvalues>
+      </node>
+      <node id="The/Black/Crowes" label="The/Black/Crowes">
+        <attvalues>
+          <attvalue for="0" value="5693" />
+        </attvalues>
+      </node>
+      <node id="Rage/Against/the/Machine" label="Rage/Against/the/Machine">
+        <attvalues>
+          <attvalue for="0" value="20273" />
+        </attvalues>
+      </node>
+      <node id="Cage/the/Elephant" label="Cage/the/Elephant">
+        <attvalues>
+          <attvalue for="0" value="7025" />
+        </attvalues>
+      </node>
+      <node id="My/Chemical/Romance" label="My/Chemical/Romance">
+        <attvalues>
+          <attvalue for="0" value="26340" />
+        </attvalues>
+      </node>
+      <node id="Black/Veil/Brides" label="Black/Veil/Brides">
+        <attvalues>
+          <attvalue for="0" value="13596" />
+        </attvalues>
+      </node>
+      <node id="Five/Finger/Death/Punch" label="Five/Finger/Death/Punch">
+        <attvalues>
+          <attvalue for="0" value="15048" />
+        </attvalues>
+      </node>
+      <node id="A/Perfect/Circle" label="A/Perfect/Circle">
+        <attvalues>
+          <attvalue for="0" value="13051" />
+        </attvalues>
+      </node>
+      <node id="Bryan/Ferry" label="Bryan/Ferry">
+        <attvalues>
+          <attvalue for="0" value="10852" />
+        </attvalues>
+      </node>
+      <node id="The/Doors" label="The/Doors">
+        <attvalues>
+          <attvalue for="0" value="14282" />
+        </attvalues>
+      </node>
+      <node id="Stone/Sour" label="Stone/Sour">
+        <attvalues>
+          <attvalue for="0" value="6042" />
+        </attvalues>
+      </node>
+      <node id="Lou/Reed" label="Lou/Reed">
+        <attvalues>
+          <attvalue for="0" value="15239" />
+        </attvalues>
+      </node>
+      <node id="Panic!/at/the/Disco" label="Panic!/at/the/Disco">
+        <attvalues>
+          <attvalue for="0" value="19983" />
+        </attvalues>
+      </node>
+      <node id="The/White/Stripes" label="The/White/Stripes">
+        <attvalues>
+          <attvalue for="0" value="25669" />
+        </attvalues>
+      </node>
+      <node id="Traffic/(band)" label="Traffic/(band)">
+        <attvalues>
+          <attvalue for="0" value="4307" />
+        </attvalues>
+      </node>
+      <node id="Frank/Zappa" label="Frank/Zappa">
+        <attvalues>
+          <attvalue for="0" value="31012" />
+        </attvalues>
+      </node>
+      <node id="Starship/(band)" label="Starship/(band)">
+        <attvalues>
+          <attvalue for="0" value="5213" />
+        </attvalues>
+      </node>
+      <node id="Europe/(band)" label="Europe/(band)">
+        <attvalues>
+          <attvalue for="0" value="7160" />
+        </attvalues>
+      </node>
+      <node id="Puddle/of/Mudd" label="Puddle/of/Mudd">
+        <attvalues>
+          <attvalue for="0" value="7454" />
+        </attvalues>
+      </node>
+      <node id="Slipknot/(band)" label="Slipknot/(band)">
+        <attvalues>
+          <attvalue for="0" value="21750" />
+        </attvalues>
+      </node>
+      <node id="Christopher/Cross" label="Christopher/Cross">
+        <attvalues>
+          <attvalue for="0" value="5626" />
+        </attvalues>
+      </node>
+      <node id="Lenny/Kravitz" label="Lenny/Kravitz">
+        <attvalues>
+          <attvalue for="0" value="12038" />
+        </attvalues>
+      </node>
+      <node id="Lynyrd/Skynyrd" label="Lynyrd/Skynyrd">
+        <attvalues>
+          <attvalue for="0" value="8707" />
+        </attvalues>
+      </node>
+      <node id="Disturbed/(band)" label="Disturbed/(band)">
+        <attvalues>
+          <attvalue for="0" value="10736" />
+        </attvalues>
+      </node>
+      <node id="Weezer" label="Weezer">
+        <attvalues>
+          <attvalue for="0" value="24337" />
+        </attvalues>
+      </node>
+      <node id="Foster/the/People" label="Foster/the/People">
+        <attvalues>
+          <attvalue for="0" value="9901" />
+        </attvalues>
+      </node>
+      <node id="Deep/Purple" label="Deep/Purple">
+        <attvalues>
+          <attvalue for="0" value="21070" />
+        </attvalues>
+      </node>
+      <node id="The/Strokes" label="The/Strokes">
+        <attvalues>
+          <attvalue for="0" value="9935" />
+        </attvalues>
+      </node>
+      <node id="Oasis/(band)" label="Oasis/(band)">
+        <attvalues>
+          <attvalue for="0" value="18966" />
+        </attvalues>
+      </node>
+      <node id="INXS" label="INXS">
+        <attvalues>
+          <attvalue for="0" value="12977" />
+        </attvalues>
+      </node>
+      <node id="Extreme/(band)" label="Extreme/(band)">
+        <attvalues>
+          <attvalue for="0" value="3494" />
+        </attvalues>
+      </node>
+      <node id="Bob/Seger" label="Bob/Seger">
+        <attvalues>
+          <attvalue for="0" value="7491" />
+        </attvalues>
+      </node>
+      <node id="The/Black/Keys" label="The/Black/Keys">
+        <attvalues>
+          <attvalue for="0" value="16053" />
+        </attvalues>
+      </node>
+      <node id="Roy/Orbison" label="Roy/Orbison">
+        <attvalues>
+          <attvalue for="0" value="15619" />
+        </attvalues>
+      </node>
+      <node id="3/Doors/Down" label="3/Doors/Down">
+        <attvalues>
+          <attvalue for="0" value="6808" />
+        </attvalues>
+      </node>
+      <node id="Santana/(band)" label="Santana/(band)">
+        <attvalues>
+          <attvalue for="0" value="6724" />
+        </attvalues>
+      </node>
+      <node id="The/Alan/Parsons/Project" label="The/Alan/Parsons/Project">
+        <attvalues>
+          <attvalue for="0" value="3249" />
+        </attvalues>
+      </node>
+      <node id="Meat/Loaf" label="Meat/Loaf">
+        <attvalues>
+          <attvalue for="0" value="18239" />
+        </attvalues>
+      </node>
+      <node id="Incubus/(band)" label="Incubus/(band)">
+        <attvalues>
+          <attvalue for="0" value="10366" />
+        </attvalues>
+      </node>
+      <node id="Quiet/Riot" label="Quiet/Riot">
+        <attvalues>
+          <attvalue for="0" value="10225" />
+        </attvalues>
+      </node>
+      <node id="Barenaked/Ladies" label="Barenaked/Ladies">
+        <attvalues>
+          <attvalue for="0" value="11738" />
+        </attvalues>
+      </node>
+      <node id="Modest/Mouse" label="Modest/Mouse">
+        <attvalues>
+          <attvalue for="0" value="5685" />
+        </attvalues>
+      </node>
+      <node id="Smokie/(band)" label="Smokie/(band)">
+        <attvalues>
+          <attvalue for="0" value="4255" />
+        </attvalues>
+      </node>
+      <node id="Sting/(musician)" label="Sting/(musician)">
+        <attvalues>
+          <attvalue for="0" value="17059" />
+        </attvalues>
+      </node>
+      <node id="Toto/(band)" label="Toto/(band)">
+        <attvalues>
+          <attvalue for="0" value="10329" />
+        </attvalues>
+      </node>
+      <node id="Nickelback" label="Nickelback">
+        <attvalues>
+          <attvalue for="0" value="12059" />
+        </attvalues>
+      </node>
+      <node id="Pop/Evil" label="Pop/Evil">
+        <attvalues>
+          <attvalue for="0" value="3440" />
+        </attvalues>
+      </node>
+      <node id="Don/Henley" label="Don/Henley">
+        <attvalues>
+          <attvalue for="0" value="9991" />
+        </attvalues>
+      </node>
+      <node id="Saliva/(band)" label="Saliva/(band)">
+        <attvalues>
+          <attvalue for="0" value="5728" />
+        </attvalues>
+      </node>
+      <node id="REO/Speedwagon" label="REO/Speedwagon">
+        <attvalues>
+          <attvalue for="0" value="5423" />
+        </attvalues>
+      </node>
+      <node id="Accept/(band)" label="Accept/(band)">
+        <attvalues>
+          <attvalue for="0" value="6922" />
+        </attvalues>
+      </node>
+      <node id="Living/Colour" label="Living/Colour">
+        <attvalues>
+          <attvalue for="0" value="4974" />
+        </attvalues>
+      </node>
+      <node id="The/B-52's" label="The/B-52's">
+        <attvalues>
+          <attvalue for="0" value="7168" />
+        </attvalues>
+      </node>
+      <node id="Sheryl/Crow" label="Sheryl/Crow">
+        <attvalues>
+          <attvalue for="0" value="12720" />
+        </attvalues>
+      </node>
+      <node id="The/Used" label="The/Used">
+        <attvalues>
+          <attvalue for="0" value="7658" />
+        </attvalues>
+      </node>
+      <node id="Simple/Minds" label="Simple/Minds">
+        <attvalues>
+          <attvalue for="0" value="16312" />
+        </attvalues>
+      </node>
+      <node id="Sublime/(band)" label="Sublime/(band)">
+        <attvalues>
+          <attvalue for="0" value="6912" />
+        </attvalues>
+      </node>
+      <node id="The/Rolling/Stones" label="The/Rolling/Stones">
+        <attvalues>
+          <attvalue for="0" value="39786" />
+        </attvalues>
+      </node>
+      <node id="Queen/(band)" label="Queen/(band)">
+        <attvalues>
+          <attvalue for="0" value="41949" />
+        </attvalues>
+      </node>
+      <node id="Chris/de/Burgh" label="Chris/de/Burgh">
+        <attvalues>
+          <attvalue for="0" value="4062" />
+        </attvalues>
+      </node>
+      <node id="Pink/Floyd" label="Pink/Floyd">
+        <attvalues>
+          <attvalue for="0" value="27812" />
+        </attvalues>
+      </node>
+      <node id="Poison/(American/band)" label="Poison/(American/band)">
+        <attvalues>
+          <attvalue for="0" value="7569" />
+        </attvalues>
+      </node>
+      <node id="Eddie/Cochran" label="Eddie/Cochran">
+        <attvalues>
+          <attvalue for="0" value="6935" />
+        </attvalues>
+      </node>
+      <node id="The/Script" label="The/Script">
+        <attvalues>
+          <attvalue for="0" value="6375" />
+        </attvalues>
+      </node>
+      <node id="Uriah/Heep/(band)" label="Uriah/Heep/(band)">
+        <attvalues>
+          <attvalue for="0" value="10350" />
+        </attvalues>
+      </node>
+      <node id="The/Smiths" label="The/Smiths">
+        <attvalues>
+          <attvalue for="0" value="14105" />
+        </attvalues>
+      </node>
+      <node id="Rammstein" label="Rammstein">
+        <attvalues>
+          <attvalue for="0" value="15649" />
+        </attvalues>
+      </node>
+      <node id="Foals/(band)" label="Foals/(band)">
+        <attvalues>
+          <attvalue for="0" value="6234" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="Funkadelic" target="Parliament-Funkadelic" id="0" />
+      <edge source="Funkadelic" target="AllMusic" id="1" />
+      <edge source="Slayer" target="Metallica" id="2" />
+      <edge source="Slayer" target="Megadeth" id="3" />
+      <edge source="Slayer" target="AllMusic" id="4" />
+      <edge source="Slayer" target="Motörhead" id="5" />
+      <edge source="Slayer" target="Sepultura" id="6" />
+      <edge source="Slayer" target="Pantera" id="7" />
+      <edge source="Slayer" target="Volbeat" id="8" />
+      <edge source="Slayer" target="Aerosmith" id="9" />
+      <edge source="Ted/Nugent" target="Ramones" id="10" />
+      <edge source="Ted/Nugent" target="Pantera" id="11" />
+      <edge source="Ted/Nugent" target="Motörhead" id="12" />
+      <edge source="Ted/Nugent" target="Nickelback" id="13" />
+      <edge source="Great/White" target="AllMusic" id="14" />
+      <edge source="Great/White" target="Whitesnake" id="15" />
+      <edge source="Great/White" target="Megadeth" id="16" />
+      <edge source="Great/White" target="Ratt" id="17" />
+      <edge source="Days/of/the/New" target="AllMusic" id="18" />
+      <edge source="Days/of/the/New" target="Metallica" id="19" />
+      <edge source="Keane/(band)" target="AllMusic" id="20" />
+      <edge source="Keane/(band)" target="Coldplay" id="21" />
+      <edge source="Keane/(band)" target="U2" id="22" />
+      <edge source="Jimmy/Eat/World" target="Radiohead" id="23" />
+      <edge source="Jimmy/Eat/World" target="AllMusic" id="24" />
+      <edge source="Flogging/Molly" target="Weezer" id="25" />
+      <edge source="Simple/Plan" target="Blink-182" id="26" />
+      <edge source="Simple/Plan" target="Weezer" id="27" />
+      <edge source="Simple/Plan" target="AllMusic" id="28" />
+      <edge source="AC/DC" target="Aerosmith" id="29" />
+      <edge source="AC/DC" target="AllMusic" id="30" />
+      <edge source="AC/DC" target="Slade" id="31" />
+      <edge source="AC/DC" target="Audioslave" id="32" />
+      <edge source="AC/DC" target="Metallica" id="33" />
+      <edge source="AC/DC" target="Slayer" id="34" />
+      <edge source="Foreigner/(band)" target="Aerosmith" id="35" />
+      <edge source="Foreigner/(band)" target="AC/DC" id="36" />
+      <edge source="Steppenwolf/(band)" target="AllMusic" id="37" />
+      <edge source="Joe/Walsh" target="AllMusic" id="38" />
+      <edge source="Guns/N'/Roses" target="Aerosmith" id="39" />
+      <edge source="Guns/N'/Roses" target="Metallica" id="40" />
+      <edge source="Guns/N'/Roses" target="Motörhead" id="41" />
+      <edge source="Guns/N'/Roses" target="Soundgarden" id="42" />
+      <edge source="Guns/N'/Roses" target="Beck" id="43" />
+      <edge source="Guns/N'/Roses" target="AC/DC" id="44" />
+      <edge source="Guns/N'/Roses" target="U2" id="45" />
+      <edge source="Guns/N'/Roses" target="Buckcherry" id="46" />
+      <edge source="Guns/N'/Roses" target="Hinder" id="47" />
+      <edge source="Guns/N'/Roses" target="Nickelback" id="48" />
+      <edge source="Guns/N'/Roses" target="AllMusic" id="49" />
+      <edge source="Roxy/Music" target="AllMusic" id="50" />
+      <edge source="Roxy/Music" target="Ramones" id="51" />
+      <edge source="Roxy/Music" target="U2" id="52" />
+      <edge source="Roxy/Music" target="Radiohead" id="53" />
+      <edge source="Limp/Bizkit" target="AllMusic" id="54" />
+      <edge source="Limp/Bizkit" target="Korn" id="55" />
+      <edge source="Limp/Bizkit" target="Blink-182" id="56" />
+      <edge source="Limp/Bizkit" target="Deftones" id="57" />
+      <edge source="Limp/Bizkit" target="Pantera" id="58" />
+      <edge source="Limp/Bizkit" target="Staind" id="59" />
+      <edge source="Limp/Bizkit" target="Metallica" id="60" />
+      <edge source="Limp/Bizkit" target="P.O.D." id="61" />
+      <edge source="Limp/Bizkit" target="Run-DMC" id="62" />
+      <edge source="Limp/Bizkit" target="Sepultura" id="63" />
+      <edge source="Limp/Bizkit" target="R.E.M." id="64" />
+      <edge source="Limp/Bizkit" target="Nickelback" id="65" />
+      <edge source="Limp/Bizkit" target="Slayer" id="66" />
+      <edge source="Midnight/Oil" target="INXS" id="67" />
+      <edge source="Midnight/Oil" target="Silverchair" id="68" />
+      <edge source="Midnight/Oil" target="AllMusic" id="69" />
+      <edge source="Midnight/Oil" target="U2" id="70" />
+      <edge source="Midnight/Oil" target="R.E.M." id="71" />
+      <edge source="Awolnation" target="AllMusic" id="72" />
+      <edge source="Dio/(band)" target="Whitesnake" id="73" />
+      <edge source="Dio/(band)" target="Ratt" id="74" />
+      <edge source="Dio/(band)" target="AllMusic" id="75" />
+      <edge source="Dio/(band)" target="AC/DC" id="76" />
+      <edge source="Dio/(band)" target="Metallica" id="77" />
+      <edge source="Marilyn/Manson" target="AllMusic" id="78" />
+      <edge source="Marilyn/Manson" target="Korn" id="79" />
+      <edge source="Marilyn/Manson" target="Rammstein" id="80" />
+      <edge source="Marilyn/Manson" target="Mudvayne" id="81" />
+      <edge source="Thirty/Seconds/to/Mars" target="AllMusic" id="82" />
+      <edge source="Thirty/Seconds/to/Mars" target="Audioslave" id="83" />
+      <edge source="Thirty/Seconds/to/Mars" target="U2" id="84" />
+      <edge source="Black/Stone/Cherry" target="Whitesnake" id="85" />
+      <edge source="Black/Stone/Cherry" target="Nickelback" id="86" />
+      <edge source="Black/Stone/Cherry" target="Shinedown" id="87" />
+      <edge source="Black/Stone/Cherry" target="Halestorm" id="88" />
+      <edge source="Black/Stone/Cherry" target="AllMusic" id="89" />
+      <edge source="Herman's/Hermits" target="Morrissey" id="90" />
+      <edge source="Manfred/Mann's/Earth/Band" target="AllMusic" id="91" />
+      <edge source="The/Pretenders" target="AllMusic" id="92" />
+      <edge source="The/Pretenders" target="Motörhead" id="93" />
+      <edge source="Ghost/(Swedish/band)" target="ABBA" id="94" />
+      <edge source="Ghost/(Swedish/band)" target="Slayer" id="95" />
+      <edge source="Ghost/(Swedish/band)" target="Deftones" id="96" />
+      <edge source="Ghost/(Swedish/band)" target="Metallica" id="97" />
+      <edge source="Ghost/(Swedish/band)" target="Volbeat" id="98" />
+      <edge source="Ghost/(Swedish/band)" target="AllMusic" id="99" />
+      <edge source="10cc" target="AllMusic" id="100" />
+      <edge source="10cc" target="Ramones" id="101" />
+      <edge source="10cc" target="ABBA" id="102" />
+      <edge source="Eric/Clapton" target="10cc" id="103" />
+      <edge source="Eric/Clapton" target="AllMusic" id="104" />
+      <edge source="Kiss/(band)" target="AllMusic" id="105" />
+      <edge source="Kiss/(band)" target="Aerosmith" id="106" />
+      <edge source="Kiss/(band)" target="Whitesnake" id="107" />
+      <edge source="Kiss/(band)" target="ABBA" id="108" />
+      <edge source="Kiss/(band)" target="Slade" id="109" />
+      <edge source="Pearl/Jam" target="Soundgarden" id="110" />
+      <edge source="Pearl/Jam" target="Aerosmith" id="111" />
+      <edge source="Pearl/Jam" target="R.E.M." id="112" />
+      <edge source="Pearl/Jam" target="Ramones" id="113" />
+      <edge source="Pearl/Jam" target="AllMusic" id="114" />
+      <edge source="Pearl/Jam" target="Silverchair" id="115" />
+      <edge source="Billy/Talent" target="Soundgarden" id="116" />
+      <edge source="Billy/Talent" target="Blink-182" id="117" />
+      <edge source="Billy/Talent" target="Paramore" id="118" />
+      <edge source="Billy/Talent" target="Weezer" id="119" />
+      <edge source="Billy/Talent" target="AllMusic" id="120" />
+      <edge source="Starset" target="Seether" id="121" />
+      <edge source="Starset" target="Shinedown" id="122" />
+      <edge source="Starset" target="Halestorm" id="123" />
+      <edge source="Starset" target="AllMusic" id="124" />
+      <edge source="Starset" target="Deftones" id="125" />
+      <edge source="Jack/White" target="AllMusic" id="126" />
+      <edge source="Jack/White" target="U2" id="127" />
+      <edge source="Queensrÿche" target="AllMusic" id="128" />
+      <edge source="Queensrÿche" target="Whitesnake" id="129" />
+      <edge source="Queensrÿche" target="AC/DC" id="130" />
+      <edge source="Queensrÿche" target="Ratt" id="131" />
+      <edge source="Queensrÿche" target="Metallica" id="132" />
+      <edge source="Queensrÿche" target="U2" id="133" />
+      <edge source="Alanis/Morissette" target="AllMusic" id="134" />
+      <edge source="Alanis/Morissette" target="Radiohead" id="135" />
+      <edge source="Alanis/Morissette" target="Audioslave" id="136" />
+      <edge source="Korn" target="AllMusic" id="137" />
+      <edge source="Korn" target="Deftones" id="138" />
+      <edge source="Korn" target="Run-DMC" id="139" />
+      <edge source="Korn" target="Metallica" id="140" />
+      <edge source="Korn" target="Mudvayne" id="141" />
+      <edge source="Korn" target="Evanescence" id="142" />
+      <edge source="Korn" target="Staind" id="143" />
+      <edge source="Korn" target="Sepultura" id="144" />
+      <edge source="Korn" target="Pantera" id="145" />
+      <edge source="The/Marshall/Tucker/Band" target="AllMusic" id="146" />
+      <edge source="Steve/Vai" target="Whitesnake" id="147" />
+      <edge source="Steve/Vai" target="Motörhead" id="148" />
+      <edge source="Steve/Vai" target="AllMusic" id="149" />
+      <edge source="Steve/Vai" target="Korn" id="150" />
+      <edge source="George/Thorogood" target="AllMusic" id="151" />
+      <edge source="Lamb/of/God/(band)" target="Metallica" id="152" />
+      <edge source="Lamb/of/God/(band)" target="Slayer" id="153" />
+      <edge source="Lamb/of/God/(band)" target="Pantera" id="154" />
+      <edge source="Lamb/of/God/(band)" target="AllMusic" id="155" />
+      <edge source="Lamb/of/God/(band)" target="Megadeth" id="156" />
+      <edge source="Lamb/of/God/(band)" target="Korn" id="157" />
+      <edge source="Peter/Frampton" target="AllMusic" id="158" />
+      <edge source="Dire/Straits" target="AllMusic" id="159" />
+      <edge source="Linkin/Park" target="Metallica" id="160" />
+      <edge source="Linkin/Park" target="Mudvayne" id="161" />
+      <edge source="Linkin/Park" target="Deftones" id="162" />
+      <edge source="Linkin/Park" target="AllMusic" id="163" />
+      <edge source="Linkin/Park" target="Beck" id="164" />
+      <edge source="Linkin/Park" target="Paramore" id="165" />
+      <edge source="Linkin/Park" target="Blink-182" id="166" />
+      <edge source="Linkin/Park" target="Soundgarden" id="167" />
+      <edge source="Linkin/Park" target="U2" id="168" />
+      <edge source="Linkin/Park" target="Radiohead" id="169" />
+      <edge source="Linkin/Park" target="Run-DMC" id="170" />
+      <edge source="Linkin/Park" target="Starset" id="171" />
+      <edge source="The/Moody/Blues" target="Donovan" id="172" />
+      <edge source="The/Moody/Blues" target="AllMusic" id="173" />
+      <edge source="The/Moody/Blues" target="Whitesnake" id="174" />
+      <edge source="The/Moody/Blues" target="10cc" id="175" />
+      <edge source="Black/Sabbath" target="AC/DC" id="176" />
+      <edge source="Black/Sabbath" target="Whitesnake" id="177" />
+      <edge source="Black/Sabbath" target="Metallica" id="178" />
+      <edge source="Black/Sabbath" target="Soundgarden" id="179" />
+      <edge source="Black/Sabbath" target="Motörhead" id="180" />
+      <edge source="Black/Sabbath" target="Pantera" id="181" />
+      <edge source="Black/Sabbath" target="Megadeth" id="182" />
+      <edge source="Black/Sabbath" target="Audioslave" id="183" />
+      <edge source="Black/Sabbath" target="Slayer" id="184" />
+      <edge source="Black/Sabbath" target="Halestorm" id="185" />
+      <edge source="Black/Sabbath" target="AllMusic" id="186" />
+      <edge source="Black/Sabbath" target="Korn" id="187" />
+      <edge source="Black/Sabbath" target="Sepultura" id="188" />
+      <edge source="Black/Sabbath" target="Godsmack" id="189" />
+      <edge source="Our/Lady/Peace" target="Soundgarden" id="190" />
+      <edge source="Our/Lady/Peace" target="Paramore" id="191" />
+      <edge source="Our/Lady/Peace" target="Deftones" id="192" />
+      <edge source="Asia/(band)" target="Megadeth" id="193" />
+      <edge source="Asia/(band)" target="AC/DC" id="194" />
+      <edge source="John/Mayall" target="AllMusic" id="195" />
+      <edge source="Run-DMC" target="Aerosmith" id="196" />
+      <edge source="Run-DMC" target="Korn" id="197" />
+      <edge source="Run-DMC" target="AllMusic" id="198" />
+      <edge source="Steve/Winwood" target="AllMusic" id="199" />
+      <edge source="Kid/Rock" target="AllMusic" id="200" />
+      <edge source="Kid/Rock" target="Aerosmith" id="201" />
+      <edge source="Kid/Rock" target="Run-DMC" id="202" />
+      <edge source="Kid/Rock" target="Metallica" id="203" />
+      <edge source="Kid/Rock" target="Korn" id="204" />
+      <edge source="Styx/(band)" target="AllMusic" id="205" />
+      <edge source="Small/Faces" target="AllMusic" id="206" />
+      <edge source="Hootie/&amp;/the/Blowfish" target="AllMusic" id="207" />
+      <edge source="Boys/Like/Girls" target="AllMusic" id="208" />
+      <edge source="Boys/Like/Girls" target="Hoobastank" id="209" />
+      <edge source="Boys/Like/Girls" target="Blink-182" id="210" />
+      <edge source="Kansas/(band)" target="AllMusic" id="211" />
+      <edge source="Cheap/Trick" target="AllMusic" id="212" />
+      <edge source="Cheap/Trick" target="Slade" id="213" />
+      <edge source="Ozzy/Osbourne" target="AllMusic" id="214" />
+      <edge source="Ozzy/Osbourne" target="Ratt" id="215" />
+      <edge source="Ozzy/Osbourne" target="Metallica" id="216" />
+      <edge source="Cold/Chisel" target="U2" id="217" />
+      <edge source="Cold/Chisel" target="INXS" id="218" />
+      <edge source="Cold/Chisel" target="Soundgarden" id="219" />
+      <edge source="Cold/Chisel" target="AllMusic" id="220" />
+      <edge source="Chubby/Checker" target="AllMusic" id="221" />
+      <edge source="New/York/Dolls" target="Morrissey" id="222" />
+      <edge source="New/York/Dolls" target="R.E.M." id="223" />
+      <edge source="New/York/Dolls" target="Soundgarden" id="224" />
+      <edge source="New/York/Dolls" target="Ramones" id="225" />
+      <edge source="New/York/Dolls" target="Beck" id="226" />
+      <edge source="New/York/Dolls" target="AllMusic" id="227" />
+      <edge source="New/York/Dolls" target="Aerosmith" id="228" />
+      <edge source="New/York/Dolls" target="Ratt" id="229" />
+      <edge source="Elton/John" target="AllMusic" id="230" />
+      <edge source="Def/Leppard" target="AC/DC" id="231" />
+      <edge source="Def/Leppard" target="Whitesnake" id="232" />
+      <edge source="Def/Leppard" target="Badfinger" id="233" />
+      <edge source="Def/Leppard" target="Slade" id="234" />
+      <edge source="Def/Leppard" target="AllMusic" id="235" />
+      <edge source="Def/Leppard" target="Pantera" id="236" />
+      <edge source="Def/Leppard" target="Slayer" id="237" />
+      <edge source="Def/Leppard" target="Ratt" id="238" />
+      <edge source="Def/Leppard" target="Aerosmith" id="239" />
+      <edge source="The/Cure" target="Deftones" id="240" />
+      <edge source="The/Cure" target="AllMusic" id="241" />
+      <edge source="The/Cure" target="Blink-182" id="242" />
+      <edge source="The/Cure" target="Korn" id="243" />
+      <edge source="Ringo/Starr" target="AllMusic" id="244" />
+      <edge source="Joan/Jett" target="Ramones" id="245" />
+      <edge source="Joan/Jett" target="Aerosmith" id="246" />
+      <edge source="Staind" target="Korn" id="247" />
+      <edge source="Staind" target="Pantera" id="248" />
+      <edge source="Staind" target="AllMusic" id="249" />
+      <edge source="Staind" target="Soundgarden" id="250" />
+      <edge source="Staind" target="Deftones" id="251" />
+      <edge source="Staind" target="P.O.D." id="252" />
+      <edge source="Staind" target="Nickelback" id="253" />
+      <edge source="Staind" target="Godsmack" id="254" />
+      <edge source="Staind" target="Halestorm" id="255" />
+      <edge source="Staind" target="Shinedown" id="256" />
+      <edge source="Staind" target="Metallica" id="257" />
+      <edge source="Staind" target="Slayer" id="258" />
+      <edge source="Staind" target="Sepultura" id="259" />
+      <edge source="Staind" target="Whitesnake" id="260" />
+      <edge source="Snow/Patrol" target="AllMusic" id="261" />
+      <edge source="Snow/Patrol" target="U2" id="262" />
+      <edge source="Snow/Patrol" target="Coldplay" id="263" />
+      <edge source="Snow/Patrol" target="INXS" id="264" />
+      <edge source="Talking/Heads" target="AllMusic" id="265" />
+      <edge source="Talking/Heads" target="Parliament-Funkadelic" id="266" />
+      <edge source="Talking/Heads" target="Ramones" id="267" />
+      <edge source="Talking/Heads" target="U2" id="268" />
+      <edge source="Talking/Heads" target="INXS" id="269" />
+      <edge source="Talking/Heads" target="Radiohead" id="270" />
+      <edge source="Breaking/Benjamin" target="Weezer" id="271" />
+      <edge source="Breaking/Benjamin" target="Godsmack" id="272" />
+      <edge source="Breaking/Benjamin" target="AllMusic" id="273" />
+      <edge source="Breaking/Benjamin" target="Evanescence" id="274" />
+      <edge source="Breaking/Benjamin" target="Seether" id="275" />
+      <edge source="Breaking/Benjamin" target="Staind" id="276" />
+      <edge source="Breaking/Benjamin" target="Nickelback" id="277" />
+      <edge source="Breaking/Benjamin" target="Shinedown" id="278" />
+      <edge source="Breaking/Benjamin" target="Starset" id="279" />
+      <edge source="Breaking/Benjamin" target="Korn" id="280" />
+      <edge source="Breaking/Benjamin" target="Coldplay" id="281" />
+      <edge source="Dave/Matthews/Band" target="Coldplay" id="282" />
+      <edge source="The/Fray" target="AllMusic" id="283" />
+      <edge source="The/Fray" target="Coldplay" id="284" />
+      <edge source="The/Fray" target="U2" id="285" />
+      <edge source="Theory/of/a/Deadman" target="Nickelback" id="286" />
+      <edge source="Theory/of/a/Deadman" target="Shinedown" id="287" />
+      <edge source="Theory/of/a/Deadman" target="Hinder" id="288" />
+      <edge source="Theory/of/a/Deadman" target="AllMusic" id="289" />
+      <edge source="Van/Halen" target="Beck" id="290" />
+      <edge source="Van/Halen" target="AllMusic" id="291" />
+      <edge source="Van/Morrison" target="AllMusic" id="292" />
+      <edge source="Van/Morrison" target="U2" id="293" />
+      <edge source="Judas/Priest" target="AllMusic" id="294" />
+      <edge source="Judas/Priest" target="Megadeth" id="295" />
+      <edge source="Judas/Priest" target="Pantera" id="296" />
+      <edge source="Judas/Priest" target="Sepultura" id="297" />
+      <edge source="Judas/Priest" target="Godsmack" id="298" />
+      <edge source="Judas/Priest" target="Whitesnake" id="299" />
+      <edge source="Judas/Priest" target="Queensrÿche" id="300" />
+      <edge source="Judas/Priest" target="Motörhead" id="301" />
+      <edge source="Judas/Priest" target="Metallica" id="302" />
+      <edge source="Judas/Priest" target="Slayer" id="303" />
+      <edge source="Jefferson/Starship" target="AllMusic" id="304" />
+      <edge source="The/Smashing/Pumpkins" target="Weezer" id="305" />
+      <edge source="The/Smashing/Pumpkins" target="AllMusic" id="306" />
+      <edge source="The/Smashing/Pumpkins" target="Pantera" id="307" />
+      <edge source="The/Smashing/Pumpkins" target="Metallica" id="308" />
+      <edge source="The/Smashing/Pumpkins" target="Slayer" id="309" />
+      <edge source="The/Smashing/Pumpkins" target="Deftones" id="310" />
+      <edge source="The/Smashing/Pumpkins" target="Evanescence" id="311" />
+      <edge source="The/Smashing/Pumpkins" target="Blink-182" id="312" />
+      <edge source="Harry/Nilsson" target="Badfinger" id="313" />
+      <edge source="Bob/Dylan" target="AllMusic" id="314" />
+      <edge source="ZZ/Top" target="AllMusic" id="315" />
+      <edge source="ZZ/Top" target="Beck" id="316" />
+      <edge source="Highly/Suspect" target="Deftones" id="317" />
+      <edge source="Highly/Suspect" target="Halestorm" id="318" />
+      <edge source="Highly/Suspect" target="AllMusic" id="319" />
+      <edge source="Skillet/(band)" target="P.O.D." id="320" />
+      <edge source="Skillet/(band)" target="AllMusic" id="321" />
+      <edge source="Skillet/(band)" target="Seether" id="322" />
+      <edge source="Skillet/(band)" target="Shinedown" id="323" />
+      <edge source="Skillet/(band)" target="Halestorm" id="324" />
+      <edge source="Skillet/(band)" target="Nickelback" id="325" />
+      <edge source="Skillet/(band)" target="Godsmack" id="326" />
+      <edge source="Skillet/(band)" target="Buckcherry" id="327" />
+      <edge source="Skillet/(band)" target="Korn" id="328" />
+      <edge source="Peter/Gabriel" target="AllMusic" id="329" />
+      <edge source="Peter/Gabriel" target="Radiohead" id="330" />
+      <edge source="Peter/Gabriel" target="Coldplay" id="331" />
+      <edge source="Icehouse/(band)" target="AllMusic" id="332" />
+      <edge source="Icehouse/(band)" target="INXS" id="333" />
+      <edge source="Icehouse/(band)" target="Coldplay" id="334" />
+      <edge source="Hole/(band)" target="Metallica" id="335" />
+      <edge source="Tenacious/D" target="Beck" id="336" />
+      <edge source="Tenacious/D" target="AllMusic" id="337" />
+      <edge source="Tenacious/D" target="Metallica" id="338" />
+      <edge source="Tenacious/D" target="Slayer" id="339" />
+      <edge source="Tenacious/D" target="ABBA" id="340" />
+      <edge source="Tenacious/D" target="Weezer" id="341" />
+      <edge source="Sex/Pistols" target="Ramones" id="342" />
+      <edge source="Sex/Pistols" target="AllMusic" id="343" />
+      <edge source="Sex/Pistols" target="Morrissey" id="344" />
+      <edge source="Avenged/Sevenfold" target="AllMusic" id="345" />
+      <edge source="Avenged/Sevenfold" target="Pantera" id="346" />
+      <edge source="Avenged/Sevenfold" target="Seether" id="347" />
+      <edge source="Avenged/Sevenfold" target="Metallica" id="348" />
+      <edge source="Avenged/Sevenfold" target="Motörhead" id="349" />
+      <edge source="Avenged/Sevenfold" target="Korn" id="350" />
+      <edge source="Avenged/Sevenfold" target="Staind" id="351" />
+      <edge source="Avenged/Sevenfold" target="Volbeat" id="352" />
+      <edge source="Avenged/Sevenfold" target="Slayer" id="353" />
+      <edge source="Avenged/Sevenfold" target="Megadeth" id="354" />
+      <edge source="Live/(band)" target="AllMusic" id="355" />
+      <edge source="10/Years/(band)" target="Mudvayne" id="356" />
+      <edge source="10/Years/(band)" target="Korn" id="357" />
+      <edge source="10/Years/(band)" target="Deftones" id="358" />
+      <edge source="10/Years/(band)" target="Shinedown" id="359" />
+      <edge source="10/Years/(band)" target="AllMusic" id="360" />
+      <edge source="Muse/(band)" target="Radiohead" id="361" />
+      <edge source="Muse/(band)" target="AllMusic" id="362" />
+      <edge source="Adam/Ant" target="AllMusic" id="363" />
+      <edge source="Adam/Ant" target="Morrissey" id="364" />
+      <edge source="Bullet/for/My/Valentine" target="Metallica" id="365" />
+      <edge source="Bullet/for/My/Valentine" target="Slayer" id="366" />
+      <edge source="Bullet/for/My/Valentine" target="AllMusic" id="367" />
+      <edge source="Bullet/for/My/Valentine" target="Pantera" id="368" />
+      <edge source="Bullet/for/My/Valentine" target="Seether" id="369" />
+      <edge source="Bullet/for/My/Valentine" target="Deftones" id="370" />
+      <edge source="Bullet/for/My/Valentine" target="Korn" id="371" />
+      <edge source="Bullet/for/My/Valentine" target="Megadeth" id="372" />
+      <edge source="Bullet/for/My/Valentine" target="Sepultura" id="373" />
+      <edge source="Bee/Gees" target="ABBA" id="374" />
+      <edge source="Bee/Gees" target="AllMusic" id="375" />
+      <edge source="Mudvayne" target="AllMusic" id="376" />
+      <edge source="Mudvayne" target="Slayer" id="377" />
+      <edge source="Mudvayne" target="Metallica" id="378" />
+      <edge source="Mudvayne" target="Audioslave" id="379" />
+      <edge source="Mudvayne" target="Pantera" id="380" />
+      <edge source="Mudvayne" target="Korn" id="381" />
+      <edge source="Mudvayne" target="Deftones" id="382" />
+      <edge source="Lifehouse/(band)" target="Nickelback" id="383" />
+      <edge source="Deftones" target="Radiohead" id="384" />
+      <edge source="Deftones" target="Metallica" id="385" />
+      <edge source="Deftones" target="Korn" id="386" />
+      <edge source="Deftones" target="AllMusic" id="387" />
+      <edge source="Deftones" target="Sepultura" id="388" />
+      <edge source="Deftones" target="Staind" id="389" />
+      <edge source="Deftones" target="Weezer" id="390" />
+      <edge source="Deftones" target="Paramore" id="391" />
+      <edge source="Filter/(band)" target="Korn" id="392" />
+      <edge source="Filter/(band)" target="AllMusic" id="393" />
+      <edge source="Filter/(band)" target="Pantera" id="394" />
+      <edge source="Filter/(band)" target="Soundgarden" id="395" />
+      <edge source="Filter/(band)" target="Deftones" id="396" />
+      <edge source="Donovan" target="AllMusic" id="397" />
+      <edge source="Pixies/(band)" target="Radiohead" id="398" />
+      <edge source="Pixies/(band)" target="Weezer" id="399" />
+      <edge source="Pixies/(band)" target="U2" id="400" />
+      <edge source="Pixies/(band)" target="AllMusic" id="401" />
+      <edge source="Pixies/(band)" target="R.E.M." id="402" />
+      <edge source="Pixies/(band)" target="Soundgarden" id="403" />
+      <edge source="The/Fixx" target="AllMusic" id="404" />
+      <edge source="Gary/Glitter" target="AllMusic" id="405" />
+      <edge source="Gary/Glitter" target="Slade" id="406" />
+      <edge source="The/Four/Seasons/(band)" target="AllMusic" id="407" />
+      <edge source="P.O.D." target="AllMusic" id="408" />
+      <edge source="P.O.D." target="Shinedown" id="409" />
+      <edge source="P.O.D." target="Buckcherry" id="410" />
+      <edge source="P.O.D." target="Run-DMC" id="411" />
+      <edge source="P.O.D." target="U2" id="412" />
+      <edge source="P.O.D." target="Metallica" id="413" />
+      <edge source="P.O.D." target="AC/DC" id="414" />
+      <edge source="Halestorm" target="Shinedown" id="415" />
+      <edge source="Halestorm" target="Evanescence" id="416" />
+      <edge source="Halestorm" target="AllMusic" id="417" />
+      <edge source="Tracy/Chapman" target="AllMusic" id="418" />
+      <edge source="Anthrax/(American/band)" target="Metallica" id="419" />
+      <edge source="Anthrax/(American/band)" target="Megadeth" id="420" />
+      <edge source="Anthrax/(American/band)" target="Slayer" id="421" />
+      <edge source="Anthrax/(American/band)" target="AllMusic" id="422" />
+      <edge source="Anthrax/(American/band)" target="Pantera" id="423" />
+      <edge source="Anthrax/(American/band)" target="Motörhead" id="424" />
+      <edge source="Anthrax/(American/band)" target="Evanescence" id="425" />
+      <edge source="Anthrax/(American/band)" target="AC/DC" id="426" />
+      <edge source="Anthrax/(American/band)" target="Sepultura" id="427" />
+      <edge source="Anthrax/(American/band)" target="Korn" id="428" />
+      <edge source="Dashboard/Confessional" target="R.E.M." id="429" />
+      <edge source="Dashboard/Confessional" target="Morrissey" id="430" />
+      <edge source="Dashboard/Confessional" target="Weezer" id="431" />
+      <edge source="Dashboard/Confessional" target="AllMusic" id="432" />
+      <edge source="Dashboard/Confessional" target="U2" id="433" />
+      <edge source="The/Who" target="AllMusic" id="434" />
+      <edge source="The/Who" target="U2" id="435" />
+      <edge source="The/Who" target="Ramones" id="436" />
+      <edge source="Fuel/(band)" target="Shinedown" id="437" />
+      <edge source="Fuel/(band)" target="Godsmack" id="438" />
+      <edge source="Fuel/(band)" target="Volbeat" id="439" />
+      <edge source="Fun/(band)" target="AllMusic" id="440" />
+      <edge source="Fun/(band)" target="Paramore" id="441" />
+      <edge source="Fun/(band)" target="Nickelback" id="442" />
+      <edge source="Linda/Ronstadt" target="AllMusic" id="443" />
+      <edge source="Linda/Ronstadt" target="U2" id="444" />
+      <edge source="Bad/Company" target="AllMusic" id="445" />
+      <edge source="Imagine/Dragons" target="AllMusic" id="446" />
+      <edge source="Imagine/Dragons" target="Coldplay" id="447" />
+      <edge source="Imagine/Dragons" target="U2" id="448" />
+      <edge source="Imagine/Dragons" target="Nickelback" id="449" />
+      <edge source="Trivium/(band)" target="Metallica" id="450" />
+      <edge source="Trivium/(band)" target="AllMusic" id="451" />
+      <edge source="Trivium/(band)" target="Korn" id="452" />
+      <edge source="Trivium/(band)" target="Sepultura" id="453" />
+      <edge source="Trivium/(band)" target="Megadeth" id="454" />
+      <edge source="Trivium/(band)" target="Slayer" id="455" />
+      <edge source="Trivium/(band)" target="Pantera" id="456" />
+      <edge source="Trivium/(band)" target="Blink-182" id="457" />
+      <edge source="Trivium/(band)" target="Aerosmith" id="458" />
+      <edge source="Counting/Crows" target="AllMusic" id="459" />
+      <edge source="Counting/Crows" target="R.E.M." id="460" />
+      <edge source="The/Outfield" target="AllMusic" id="461" />
+      <edge source="FireHouse" target="Ratt" id="462" />
+      <edge source="Bruce/Springsteen" target="R.E.M." id="463" />
+      <edge source="Coldplay" target="R.E.M." id="464" />
+      <edge source="Coldplay" target="U2" id="465" />
+      <edge source="Coldplay" target="Radiohead" id="466" />
+      <edge source="Genesis/(band)" target="AllMusic" id="467" />
+      <edge source="X/Ambassadors" target="AllMusic" id="468" />
+      <edge source="Steve/Miller/Band" target="AllMusic" id="469" />
+      <edge source="Alice/Cooper" target="AllMusic" id="470" />
+      <edge source="Alice/Cooper" target="Donovan" id="471" />
+      <edge source="Alice/Cooper" target="Aerosmith" id="472" />
+      <edge source="Alice/Cooper" target="U2" id="473" />
+      <edge source="Alice/Cooper" target="Megadeth" id="474" />
+      <edge source="Good/Charlotte" target="Silverchair" id="475" />
+      <edge source="Good/Charlotte" target="Blink-182" id="476" />
+      <edge source="Good/Charlotte" target="AllMusic" id="477" />
+      <edge source="Rush/(band)" target="U2" id="478" />
+      <edge source="Rush/(band)" target="Supertramp" id="479" />
+      <edge source="Rush/(band)" target="AllMusic" id="480" />
+      <edge source="Rush/(band)" target="Megadeth" id="481" />
+      <edge source="Rush/(band)" target="Metallica" id="482" />
+      <edge source="Rush/(band)" target="Queensrÿche" id="483" />
+      <edge source="Rush/(band)" target="Sepultura" id="484" />
+      <edge source="Rush/(band)" target="Soundgarden" id="485" />
+      <edge source="Rush/(band)" target="Aerosmith" id="486" />
+      <edge source="Nine/Inch/Nails" target="AllMusic" id="487" />
+      <edge source="Nine/Inch/Nails" target="U2" id="488" />
+      <edge source="Nine/Inch/Nails" target="Soundgarden" id="489" />
+      <edge source="Nine/Inch/Nails" target="Deftones" id="490" />
+      <edge source="Nine/Inch/Nails" target="Evanescence" id="491" />
+      <edge source="Nine/Inch/Nails" target="Rammstein" id="492" />
+      <edge source="Tom/Petty/and/the/Heartbreakers" target="Beck" id="493" />
+      <edge source="Crosby,/Stills,/Nash/&amp;/Young" target="AllMusic" id="494" />
+      <edge source="The/Offspring" target="Weezer" id="495" />
+      <edge source="The/Offspring" target="Ramones" id="496" />
+      <edge source="The/Offspring" target="Metallica" id="497" />
+      <edge source="The/Offspring" target="AllMusic" id="498" />
+      <edge source="Papa/Roach" target="AllMusic" id="499" />
+      <edge source="Papa/Roach" target="Hinder" id="500" />
+      <edge source="Papa/Roach" target="Buckcherry" id="501" />
+      <edge source="Papa/Roach" target="Seether" id="502" />
+      <edge source="Papa/Roach" target="Staind" id="503" />
+      <edge source="Papa/Roach" target="Nickelback" id="504" />
+      <edge source="Papa/Roach" target="Metallica" id="505" />
+      <edge source="Papa/Roach" target="Shinedown" id="506" />
+      <edge source="Papa/Roach" target="Paramore" id="507" />
+      <edge source="Papa/Roach" target="Halestorm" id="508" />
+      <edge source="Papa/Roach" target="P.O.D." id="509" />
+      <edge source="Papa/Roach" target="Godsmack" id="510" />
+      <edge source="Mötley/Crüe" target="AllMusic" id="511" />
+      <edge source="Mötley/Crüe" target="Aerosmith" id="512" />
+      <edge source="Mötley/Crüe" target="Megadeth" id="513" />
+      <edge source="Mötley/Crüe" target="Ratt" id="514" />
+      <edge source="Mötley/Crüe" target="Buckcherry" id="515" />
+      <edge source="Mötley/Crüe" target="Hinder" id="516" />
+      <edge source="Mötley/Crüe" target="Godsmack" id="517" />
+      <edge source="Mötley/Crüe" target="Metallica" id="518" />
+      <edge source="Evanescence" target="AllMusic" id="519" />
+      <edge source="Evanescence" target="Korn" id="520" />
+      <edge source="Evanescence" target="Aerosmith" id="521" />
+      <edge source="Evanescence" target="Deftones" id="522" />
+      <edge source="Evanescence" target="Seether" id="523" />
+      <edge source="Evanescence" target="Halestorm" id="524" />
+      <edge source="Evanescence" target="Soundgarden" id="525" />
+      <edge source="Evanescence" target="Pantera" id="526" />
+      <edge source="Florence/and/the/Machine" target="AllMusic" id="527" />
+      <edge source="Florence/and/the/Machine" target="U2" id="528" />
+      <edge source="Everclear/(band)" target="AllMusic" id="529" />
+      <edge source="Everclear/(band)" target="Godsmack" id="530" />
+      <edge source="Aerosmith" target="AllMusic" id="531" />
+      <edge source="Aerosmith" target="Run-DMC" id="532" />
+      <edge source="Aerosmith" target="Metallica" id="533" />
+      <edge source="Aerosmith" target="Ratt" id="534" />
+      <edge source="Aerosmith" target="Radiohead" id="535" />
+      <edge source="Aerosmith" target="Staind" id="536" />
+      <edge source="Aerosmith" target="Godsmack" id="537" />
+      <edge source="Aerosmith" target="U2" id="538" />
+      <edge source="Catfish/and/the/Bottlemen" target="Coldplay" id="539" />
+      <edge source="Catfish/and/the/Bottlemen" target="AllMusic" id="540" />
+      <edge source="Finger/Eleven" target="Evanescence" id="541" />
+      <edge source="Finger/Eleven" target="Nickelback" id="542" />
+      <edge source="Finger/Eleven" target="Seether" id="543" />
+      <edge source="Finger/Eleven" target="Staind" id="544" />
+      <edge source="Ten/Years/After" target="Slade" id="545" />
+      <edge source="Traveling/Wilburys" target="AllMusic" id="546" />
+      <edge source="Traveling/Wilburys" target="R.E.M." id="547" />
+      <edge source="Train/(band)" target="AllMusic" id="548" />
+      <edge source="Shinedown" target="AllMusic" id="549" />
+      <edge source="Shinedown" target="Seether" id="550" />
+      <edge source="Shinedown" target="Halestorm" id="551" />
+      <edge source="Shinedown" target="Godsmack" id="552" />
+      <edge source="Shinedown" target="Metallica" id="553" />
+      <edge source="Shinedown" target="Soundgarden" id="554" />
+      <edge source="Iggy/Pop" target="AllMusic" id="555" />
+      <edge source="Iggy/Pop" target="Morrissey" id="556" />
+      <edge source="Iggy/Pop" target="Rammstein" id="557" />
+      <edge source="Crowded/House" target="AllMusic" id="558" />
+      <edge source="Crowded/House" target="Radiohead" id="559" />
+      <edge source="Crowded/House" target="Supertramp" id="560" />
+      <edge source="Crowded/House" target="Beck" id="561" />
+      <edge source="Blur/(band)" target="AllMusic" id="562" />
+      <edge source="Blur/(band)" target="Beck" id="563" />
+      <edge source="The/Doobie/Brothers" target="AllMusic" id="564" />
+      <edge source="John/Mellencamp" target="Donovan" id="565" />
+      <edge source="John/Mellencamp" target="AllMusic" id="566" />
+      <edge source="Whitesnake" target="AC/DC" id="567" />
+      <edge source="Whitesnake" target="AllMusic" id="568" />
+      <edge source="Whitesnake" target="Ratt" id="569" />
+      <edge source="The/Allman/Brothers/Band" target="AllMusic" id="570" />
+      <edge source="rock/music" target="Donovan" id="571" />
+      <edge source="rock/music" target="Supertramp" id="572" />
+      <edge source="rock/music" target="AllMusic" id="573" />
+      <edge source="rock/music" target="Aerosmith" id="574" />
+      <edge source="rock/music" target="Slade" id="575" />
+      <edge source="rock/music" target="AC/DC" id="576" />
+      <edge source="rock/music" target="Motörhead" id="577" />
+      <edge source="rock/music" target="Metallica" id="578" />
+      <edge source="rock/music" target="Ramones" id="579" />
+      <edge source="rock/music" target="U2" id="580" />
+      <edge source="rock/music" target="R.E.M." id="581" />
+      <edge source="rock/music" target="Soundgarden" id="582" />
+      <edge source="rock/music" target="Audioslave" id="583" />
+      <edge source="rock/music" target="Silverchair" id="584" />
+      <edge source="rock/music" target="Nickelback" id="585" />
+      <edge source="rock/music" target="Shinedown" id="586" />
+      <edge source="rock/music" target="Seether" id="587" />
+      <edge source="rock/music" target="Blink-182" id="588" />
+      <edge source="rock/music" target="Beck" id="589" />
+      <edge source="rock/music" target="Pantera" id="590" />
+      <edge source="rock/music" target="Sepultura" id="591" />
+      <edge source="rock/music" target="Korn" id="592" />
+      <edge source="rock/music" target="P.O.D." id="593" />
+      <edge source="rock/music" target="Staind" id="594" />
+      <edge source="rock/music" target="Godsmack" id="595" />
+      <edge source="rock/music" target="Radiohead" id="596" />
+      <edge source="rock/music" target="Coldplay" id="597" />
+      <edge source="rock/music" target="Halestorm" id="598" />
+      <edge source="Primus/(band)" target="U2" id="599" />
+      <edge source="Primus/(band)" target="Blink-182" id="600" />
+      <edge source="Primus/(band)" target="Metallica" id="601" />
+      <edge source="Primus/(band)" target="Slayer" id="602" />
+      <edge source="Primus/(band)" target="AllMusic" id="603" />
+      <edge source="Primus/(band)" target="Pantera" id="604" />
+      <edge source="Primus/(band)" target="Deftones" id="605" />
+      <edge source="Primus/(band)" target="Korn" id="606" />
+      <edge source="Silverchair" target="AllMusic" id="607" />
+      <edge source="Silverchair" target="INXS" id="608" />
+      <edge source="Silverchair" target="Ramones" id="609" />
+      <edge source="Silverchair" target="Soundgarden" id="610" />
+      <edge source="Montgomery/Gentry" target="AllMusic" id="611" />
+      <edge source="Death/Cab/for/Cutie" target="AllMusic" id="612" />
+      <edge source="Metallica" target="Megadeth" id="613" />
+      <edge source="Metallica" target="Slayer" id="614" />
+      <edge source="Metallica" target="Ratt" id="615" />
+      <edge source="Metallica" target="AllMusic" id="616" />
+      <edge source="Metallica" target="Aerosmith" id="617" />
+      <edge source="Metallica" target="Blink-182" id="618" />
+      <edge source="Metallica" target="Godsmack" id="619" />
+      <edge source="Metallica" target="Volbeat" id="620" />
+      <edge source="Metallica" target="Coldplay" id="621" />
+      <edge source="Metallica" target="AC/DC" id="622" />
+      <edge source="Metallica" target="Motörhead" id="623" />
+      <edge source="Metallica" target="Ramones" id="624" />
+      <edge source="Metallica" target="Korn" id="625" />
+      <edge source="Metallica" target="Staind" id="626" />
+      <edge source="Simon/&amp;/Garfunkel" target="AllMusic" id="627" />
+      <edge source="Gene/Vincent" target="AllMusic" id="628" />
+      <edge source="Cinderella/(band)" target="AllMusic" id="629" />
+      <edge source="Cinderella/(band)" target="Ratt" id="630" />
+      <edge source="Cinderella/(band)" target="Queensrÿche" id="631" />
+      <edge source="Fall/Out/Boy" target="AllMusic" id="632" />
+      <edge source="Fall/Out/Boy" target="Blink-182" id="633" />
+      <edge source="Fall/Out/Boy" target="Paramore" id="634" />
+      <edge source="Fall/Out/Boy" target="Weezer" id="635" />
+      <edge source="Fall/Out/Boy" target="Metallica" id="636" />
+      <edge source="Fall/Out/Boy" target="Ramones" id="637" />
+      <edge source="Fall/Out/Boy" target="Pantera" id="638" />
+      <edge source="Jane's/Addiction" target="Ramones" id="639" />
+      <edge source="Jane's/Addiction" target="AllMusic" id="640" />
+      <edge source="Jane's/Addiction" target="Korn" id="641" />
+      <edge source="Jane's/Addiction" target="P.O.D." id="642" />
+      <edge source="Seether" target="AllMusic" id="643" />
+      <edge source="Seether" target="Staind" id="644" />
+      <edge source="Seether" target="Evanescence" id="645" />
+      <edge source="Seether" target="Nickelback" id="646" />
+      <edge source="Seether" target="Deftones" id="647" />
+      <edge source="The/Pretty/Reckless" target="Evanescence" id="648" />
+      <edge source="The/Pretty/Reckless" target="AllMusic" id="649" />
+      <edge source="The/Pretty/Reckless" target="Soundgarden" id="650" />
+      <edge source="The/Pretty/Reckless" target="Audioslave" id="651" />
+      <edge source="The/Pretty/Reckless" target="Shinedown" id="652" />
+      <edge source="The/Pretty/Reckless" target="Halestorm" id="653" />
+      <edge source="The/Pretty/Reckless" target="AC/DC" id="654" />
+      <edge source="The/All-American/Rejects" target="AllMusic" id="655" />
+      <edge source="The/All-American/Rejects" target="Weezer" id="656" />
+      <edge source="The/All-American/Rejects" target="Hoobastank" id="657" />
+      <edge source="The/All-American/Rejects" target="Blink-182" id="658" />
+      <edge source="The/All-American/Rejects" target="Paramore" id="659" />
+      <edge source="The/J./Geils/Band" target="AllMusic" id="660" />
+      <edge source="The/J./Geils/Band" target="U2" id="661" />
+      <edge source="The/J./Geils/Band" target="Aerosmith" id="662" />
+      <edge source="George/Harrison" target="Badfinger" id="663" />
+      <edge source="George/Harrison" target="Donovan" id="664" />
+      <edge source="Thin/Lizzy" target="AllMusic" id="665" />
+      <edge source="Thin/Lizzy" target="Slade" id="666" />
+      <edge source="Thin/Lizzy" target="Aerosmith" id="667" />
+      <edge source="Thin/Lizzy" target="U2" id="668" />
+      <edge source="Thin/Lizzy" target="Whitesnake" id="669" />
+      <edge source="Thin/Lizzy" target="AC/DC" id="670" />
+      <edge source="Thin/Lizzy" target="Motörhead" id="671" />
+      <edge source="Thin/Lizzy" target="Metallica" id="672" />
+      <edge source="Rise/Against" target="AllMusic" id="673" />
+      <edge source="Rise/Against" target="Awolnation" id="674" />
+      <edge source="Rise/Against" target="Ramones" id="675" />
+      <edge source="Steely/Dan" target="Radiohead" id="676" />
+      <edge source="America/(band)" target="AllMusic" id="677" />
+      <edge source="Ramones" target="10cc" id="678" />
+      <edge source="Ramones" target="Motörhead" id="679" />
+      <edge source="Ramones" target="Soundgarden" id="680" />
+      <edge source="Ramones" target="AllMusic" id="681" />
+      <edge source="Ramones" target="Blink-182" id="682" />
+      <edge source="Ramones" target="Metallica" id="683" />
+      <edge source="Ramones" target="U2" id="684" />
+      <edge source="R.E.M." target="AllMusic" id="685" />
+      <edge source="R.E.M." target="Beck" id="686" />
+      <edge source="R.E.M." target="U2" id="687" />
+      <edge source="R.E.M." target="Radiohead" id="688" />
+      <edge source="Lacuna/Coil" target="AllMusic" id="689" />
+      <edge source="Lacuna/Coil" target="Metallica" id="690" />
+      <edge source="Lacuna/Coil" target="Megadeth" id="691" />
+      <edge source="Gin/Blossoms" target="AllMusic" id="692" />
+      <edge source="Pantera" target="AllMusic" id="693" />
+      <edge source="Pantera" target="Metallica" id="694" />
+      <edge source="Pantera" target="Slayer" id="695" />
+      <edge source="Pantera" target="Megadeth" id="696" />
+      <edge source="Pantera" target="Soundgarden" id="697" />
+      <edge source="Pantera" target="Sepultura" id="698" />
+      <edge source="Pantera" target="AC/DC" id="699" />
+      <edge source="Pantera" target="Godsmack" id="700" />
+      <edge source="Pantera" target="P.O.D." id="701" />
+      <edge source="Pantera" target="Mudvayne" id="702" />
+      <edge source="Pantera" target="Aerosmith" id="703" />
+      <edge source="Pantera" target="Motörhead" id="704" />
+      <edge source="Pantera" target="Korn" id="705" />
+      <edge source="Everlast" target="AllMusic" id="706" />
+      <edge source="Everlast" target="Ramones" id="707" />
+      <edge source="Everlast" target="Run-DMC" id="708" />
+      <edge source="U2" target="AllMusic" id="709" />
+      <edge source="U2" target="Ramones" id="710" />
+      <edge source="Chevelle/(band)" target="AllMusic" id="711" />
+      <edge source="Chevelle/(band)" target="Nickelback" id="712" />
+      <edge source="Chevelle/(band)" target="Evanescence" id="713" />
+      <edge source="Chevelle/(band)" target="Halestorm" id="714" />
+      <edge source="Chevelle/(band)" target="Staind" id="715" />
+      <edge source="Chevelle/(band)" target="Shinedown" id="716" />
+      <edge source="AFI/(band)" target="Pantera" id="717" />
+      <edge source="AFI/(band)" target="AllMusic" id="718" />
+      <edge source="AFI/(band)" target="Metallica" id="719" />
+      <edge source="Pat/Benatar" target="AllMusic" id="720" />
+      <edge source="Pat/Benatar" target="Loverboy" id="721" />
+      <edge source="Buddy/Holly" target="AllMusic" id="722" />
+      <edge source="Buddy/Holly" target="Weezer" id="723" />
+      <edge source="Slade" target="AllMusic" id="724" />
+      <edge source="Slade" target="Aerosmith" id="725" />
+      <edge source="Slade" target="AC/DC" id="726" />
+      <edge source="Arcade/Fire" target="Radiohead" id="727" />
+      <edge source="Arcade/Fire" target="U2" id="728" />
+      <edge source="Arcade/Fire" target="Beck" id="729" />
+      <edge source="Stevie/Ray/Vaughan" target="AllMusic" id="730" />
+      <edge source="T./Rex/(band)" target="AllMusic" id="731" />
+      <edge source="T./Rex/(band)" target="R.E.M." id="732" />
+      <edge source="T./Rex/(band)" target="Morrissey" id="733" />
+      <edge source="Kings/of/Leon" target="U2" id="734" />
+      <edge source="Heart/(band)" target="Paramore" id="735" />
+      <edge source="Heart/(band)" target="Metallica" id="736" />
+      <edge source="Heart/(band)" target="Halestorm" id="737" />
+      <edge source="Heart/(band)" target="R.E.M." id="738" />
+      <edge source="Heart/(band)" target="Soundgarden" id="739" />
+      <edge source="Motörhead" target="AllMusic" id="740" />
+      <edge source="Motörhead" target="Metallica" id="741" />
+      <edge source="Motörhead" target="Ramones" id="742" />
+      <edge source="Motörhead" target="Sepultura" id="743" />
+      <edge source="Motörhead" target="Megadeth" id="744" />
+      <edge source="Motörhead" target="Volbeat" id="745" />
+      <edge source="Motörhead" target="Slayer" id="746" />
+      <edge source="Nirvana/(band)" target="Soundgarden" id="747" />
+      <edge source="Nirvana/(band)" target="Slayer" id="748" />
+      <edge source="Nirvana/(band)" target="R.E.M." id="749" />
+      <edge source="Nirvana/(band)" target="AllMusic" id="750" />
+      <edge source="Nirvana/(band)" target="Beck" id="751" />
+      <edge source="Nirvana/(band)" target="Aerosmith" id="752" />
+      <edge source="Little/Richard" target="U2" id="753" />
+      <edge source="Little/Richard" target="Ratt" id="754" />
+      <edge source="Little/Richard" target="AllMusic" id="755" />
+      <edge source="Little/Richard" target="Motörhead" id="756" />
+      <edge source="Little/Richard" target="AC/DC" id="757" />
+      <edge source="Little/Richard" target="Audioslave" id="758" />
+      <edge source="Little/Richard" target="Soundgarden" id="759" />
+      <edge source="Rob/Zombie" target="AllMusic" id="760" />
+      <edge source="Rob/Zombie" target="Slade" id="761" />
+      <edge source="Rob/Zombie" target="Metallica" id="762" />
+      <edge source="Rob/Zombie" target="Slayer" id="763" />
+      <edge source="Rob/Zombie" target="Pantera" id="764" />
+      <edge source="Rob/Zombie" target="Sepultura" id="765" />
+      <edge source="Dallas/Green/(musician)" target="AllMusic" id="766" />
+      <edge source="The/Beach/Boys" target="AllMusic" id="767" />
+      <edge source="The/Beach/Boys" target="Donovan" id="768" />
+      <edge source="The/Beach/Boys" target="R.E.M." id="769" />
+      <edge source="The/Beach/Boys" target="U2" id="770" />
+      <edge source="The/Beach/Boys" target="Ramones" id="771" />
+      <edge source="Jefferson/Airplane" target="AllMusic" id="772" />
+      <edge source="Jefferson/Airplane" target="Donovan" id="773" />
+      <edge source="System/of/a/Down" target="Slayer" id="774" />
+      <edge source="System/of/a/Down" target="Rammstein" id="775" />
+      <edge source="System/of/a/Down" target="Radiohead" id="776" />
+      <edge source="System/of/a/Down" target="Deftones" id="777" />
+      <edge source="System/of/a/Down" target="AllMusic" id="778" />
+      <edge source="System/of/a/Down" target="Run-DMC" id="779" />
+      <edge source="System/of/a/Down" target="Metallica" id="780" />
+      <edge source="System/of/a/Down" target="Morrissey" id="781" />
+      <edge source="Sixto/Rodriguez" target="AllMusic" id="782" />
+      <edge source="Blue/October" target="AllMusic" id="783" />
+      <edge source="Blue/October" target="U2" id="784" />
+      <edge source="The/Cult" target="Morrissey" id="785" />
+      <edge source="The/Cult" target="Aerosmith" id="786" />
+      <edge source="The/Cult" target="Metallica" id="787" />
+      <edge source="The/Cult" target="Soundgarden" id="788" />
+      <edge source="The/Cult" target="AllMusic" id="789" />
+      <edge source="The/Cult" target="Shinedown" id="790" />
+      <edge source="The/Cult" target="AC/DC" id="791" />
+      <edge source="The/Cult" target="U2" id="792" />
+      <edge source="The/Flaming/Lips" target="Beck" id="793" />
+      <edge source="The/Flaming/Lips" target="Morrissey" id="794" />
+      <edge source="The/Flaming/Lips" target="Weezer" id="795" />
+      <edge source="The/Flaming/Lips" target="AllMusic" id="796" />
+      <edge source="Creed/(band)" target="AllMusic" id="797" />
+      <edge source="Creed/(band)" target="U2" id="798" />
+      <edge source="Creed/(band)" target="Slayer" id="799" />
+      <edge source="Creed/(band)" target="Metallica" id="800" />
+      <edge source="The/Lumineers" target="U2" id="801" />
+      <edge source="Twisted/Sister" target="Slade" id="802" />
+      <edge source="Twisted/Sister" target="Motörhead" id="803" />
+      <edge source="Twisted/Sister" target="Metallica" id="804" />
+      <edge source="Twisted/Sister" target="AC/DC" id="805" />
+      <edge source="Twisted/Sister" target="AllMusic" id="806" />
+      <edge source="Twisted/Sister" target="Aerosmith" id="807" />
+      <edge source="Bush/(British/band)" target="INXS" id="808" />
+      <edge source="Bush/(British/band)" target="U2" id="809" />
+      <edge source="Bush/(British/band)" target="Nickelback" id="810" />
+      <edge source="Bush/(British/band)" target="AllMusic" id="811" />
+      <edge source="Bush/(British/band)" target="Soundgarden" id="812" />
+      <edge source="Audioslave" target="Soundgarden" id="813" />
+      <edge source="Audioslave" target="AllMusic" id="814" />
+      <edge source="Audioslave" target="Funkadelic" id="815" />
+      <edge source="Audioslave" target="U2" id="816" />
+      <edge source="Flyleaf/(band)" target="Staind" id="817" />
+      <edge source="Flyleaf/(band)" target="Seether" id="818" />
+      <edge source="Flyleaf/(band)" target="P.O.D." id="819" />
+      <edge source="Flyleaf/(band)" target="AllMusic" id="820" />
+      <edge source="The/Kinks" target="AllMusic" id="821" />
+      <edge source="The/Kinks" target="Ramones" id="822" />
+      <edge source="Alter/Bridge" target="Godsmack" id="823" />
+      <edge source="Alter/Bridge" target="Halestorm" id="824" />
+      <edge source="Alter/Bridge" target="Shinedown" id="825" />
+      <edge source="Alter/Bridge" target="Volbeat" id="826" />
+      <edge source="Paramore" target="AllMusic" id="827" />
+      <edge source="Paramore" target="Weezer" id="828" />
+      <edge source="Paramore" target="Deftones" id="829" />
+      <edge source="Paramore" target="Blink-182" id="830" />
+      <edge source="Paramore" target="Ramones" id="831" />
+      <edge source="Paramore" target="U2" id="832" />
+      <edge source="Three/Dog/Night" target="Whitesnake" id="833" />
+      <edge source="Three/Dog/Night" target="AllMusic" id="834" />
+      <edge source="Kenny/Loggins" target="AllMusic" id="835" />
+      <edge source="311/(band)" target="Deftones" id="836" />
+      <edge source="Cream/(band)" target="AllMusic" id="837" />
+      <edge source="Killswitch/Engage" target="AllMusic" id="838" />
+      <edge source="Killswitch/Engage" target="Slayer" id="839" />
+      <edge source="Killswitch/Engage" target="Metallica" id="840" />
+      <edge source="Killswitch/Engage" target="Megadeth" id="841" />
+      <edge source="W.A.S.P./(band)" target="AllMusic" id="842" />
+      <edge source="W.A.S.P./(band)" target="Metallica" id="843" />
+      <edge source="W.A.S.P./(band)" target="Slayer" id="844" />
+      <edge source="W.A.S.P./(band)" target="Queensrÿche" id="845" />
+      <edge source="Blondie/(band)" target="AllMusic" id="846" />
+      <edge source="Blondie/(band)" target="Ramones" id="847" />
+      <edge source="The/Zombies" target="AllMusic" id="848" />
+      <edge source="Damn/Yankees/(band)" target="AllMusic" id="849" />
+      <edge source="Daughtry/(band)" target="Seether" id="850" />
+      <edge source="Daughtry/(band)" target="Shinedown" id="851" />
+      <edge source="Daughtry/(band)" target="Nickelback" id="852" />
+      <edge source="Daughtry/(band)" target="Halestorm" id="853" />
+      <edge source="Daughtry/(band)" target="Staind" id="854" />
+      <edge source="Soundgarden" target="Audioslave" id="855" />
+      <edge source="Soundgarden" target="AllMusic" id="856" />
+      <edge source="Soundgarden" target="Metallica" id="857" />
+      <edge source="Soundgarden" target="Ramones" id="858" />
+      <edge source="Soundgarden" target="Evanescence" id="859" />
+      <edge source="Royal/Blood/(band)" target="AllMusic" id="860" />
+      <edge source="Royal/Blood/(band)" target="Coldplay" id="861" />
+      <edge source="Twenty/One/Pilots" target="AllMusic" id="862" />
+      <edge source="Twenty/One/Pilots" target="Paramore" id="863" />
+      <edge source="Bring/Me/the/Horizon" target="Metallica" id="864" />
+      <edge source="Bring/Me/the/Horizon" target="Pantera" id="865" />
+      <edge source="Bring/Me/the/Horizon" target="AllMusic" id="866" />
+      <edge source="Bring/Me/the/Horizon" target="Radiohead" id="867" />
+      <edge source="Bring/Me/the/Horizon" target="Deftones" id="868" />
+      <edge source="Bring/Me/the/Horizon" target="Coldplay" id="869" />
+      <edge source="Emerson,/Lake/&amp;/Palmer" target="AllMusic" id="870" />
+      <edge source="Mitch/Ryder" target="AllMusic" id="871" />
+      <edge source="The/Sweet" target="Slade" id="872" />
+      <edge source="The/Sweet" target="Aerosmith" id="873" />
+      <edge source="The/Sweet" target="Ramones" id="874" />
+      <edge source="The/Sweet" target="AC/DC" id="875" />
+      <edge source="Chris/Rea" target="AllMusic" id="876" />
+      <edge source="Skid/Row/(American/band)" target="Halestorm" id="877" />
+      <edge source="Skid/Row/(American/band)" target="AllMusic" id="878" />
+      <edge source="Skid/Row/(American/band)" target="Aerosmith" id="879" />
+      <edge source="Skid/Row/(American/band)" target="Pantera" id="880" />
+      <edge source="Skid/Row/(American/band)" target="Soundgarden" id="881" />
+      <edge source="Skid/Row/(American/band)" target="INXS" id="882" />
+      <edge source="Skid/Row/(American/band)" target="Ratt" id="883" />
+      <edge source="James/Blunt" target="AllMusic" id="884" />
+      <edge source="Stone/Temple/Pilots" target="AllMusic" id="885" />
+      <edge source="Stone/Temple/Pilots" target="Megadeth" id="886" />
+      <edge source="Stone/Temple/Pilots" target="Aerosmith" id="887" />
+      <edge source="Stone/Temple/Pilots" target="Soundgarden" id="888" />
+      <edge source="Sublime/with/Rome" target="Deftones" id="889" />
+      <edge source="Chuck/Berry" target="AllMusic" id="890" />
+      <edge source="Chuck/Berry" target="Ramones" id="891" />
+      <edge source="Morrissey" target="Ramones" id="892" />
+      <edge source="Morrissey" target="R.E.M." id="893" />
+      <edge source="Morrissey" target="AllMusic" id="894" />
+      <edge source="Jet/(Australian/band)" target="AllMusic" id="895" />
+      <edge source="Jet/(Australian/band)" target="Coldplay" id="896" />
+      <edge source="Tool/(band)" target="AllMusic" id="897" />
+      <edge source="Tool/(band)" target="Deftones" id="898" />
+      <edge source="Tool/(band)" target="Korn" id="899" />
+      <edge source="Tool/(band)" target="Ramones" id="900" />
+      <edge source="Duran/Duran" target="AllMusic" id="901" />
+      <edge source="Duran/Duran" target="AC/DC" id="902" />
+      <edge source="Duran/Duran" target="Beck" id="903" />
+      <edge source="Duran/Duran" target="Korn" id="904" />
+      <edge source="Bryan/Adams" target="Loverboy" id="905" />
+      <edge source="Bryan/Adams" target="Rammstein" id="906" />
+      <edge source="Bryan/Adams" target="U2" id="907" />
+      <edge source="Jethro/Tull/(band)" target="Metallica" id="908" />
+      <edge source="Sum/41" target="Weezer" id="909" />
+      <edge source="Sum/41" target="AllMusic" id="910" />
+      <edge source="Sum/41" target="Korn" id="911" />
+      <edge source="Sum/41" target="AC/DC" id="912" />
+      <edge source="Sum/41" target="Metallica" id="913" />
+      <edge source="Sum/41" target="Slayer" id="914" />
+      <edge source="Sum/41" target="Megadeth" id="915" />
+      <edge source="Collective/Soul" target="AllMusic" id="916" />
+      <edge source="Collective/Soul" target="Aerosmith" id="917" />
+      <edge source="Status/Quo/(band)" target="AllMusic" id="918" />
+      <edge source="Status/Quo/(band)" target="10cc" id="919" />
+      <edge source="England/Dan/&amp;/John/Ford/Coley" target="AllMusic" id="920" />
+      <edge source="The/Police" target="U2" id="921" />
+      <edge source="The/Police" target="AllMusic" id="922" />
+      <edge source="Journey/(band)" target="AllMusic" id="923" />
+      <edge source="Journey/(band)" target="Loverboy" id="924" />
+      <edge source="Coheed/and/Cambria" target="Metallica" id="925" />
+      <edge source="Coheed/and/Cambria" target="AllMusic" id="926" />
+      <edge source="The/Killers" target="Morrissey" id="927" />
+      <edge source="The/Killers" target="Coldplay" id="928" />
+      <edge source="The/Killers" target="U2" id="929" />
+      <edge source="The/Killers" target="AllMusic" id="930" />
+      <edge source="The/Killers" target="Radiohead" id="931" />
+      <edge source="John/Mayer" target="AllMusic" id="932" />
+      <edge source="April/Wine" target="Badfinger" id="933" />
+      <edge source="April/Wine" target="Loverboy" id="934" />
+      <edge source="Sepultura" target="Motörhead" id="935" />
+      <edge source="Sepultura" target="AC/DC" id="936" />
+      <edge source="Sepultura" target="Slayer" id="937" />
+      <edge source="Sepultura" target="Megadeth" id="938" />
+      <edge source="Sepultura" target="AllMusic" id="939" />
+      <edge source="Sepultura" target="Pantera" id="940" />
+      <edge source="Sepultura" target="Ramones" id="941" />
+      <edge source="Sepultura" target="Metallica" id="942" />
+      <edge source="Sepultura" target="Whitesnake" id="943" />
+      <edge source="Sepultura" target="U2" id="944" />
+      <edge source="Sepultura" target="Korn" id="945" />
+      <edge source="Sepultura" target="Deftones" id="946" />
+      <edge source="Tesla/(band)" target="AllMusic" id="947" />
+      <edge source="Iron/Maiden" target="Metallica" id="948" />
+      <edge source="Iron/Maiden" target="AllMusic" id="949" />
+      <edge source="Jackson/Browne" target="AllMusic" id="950" />
+      <edge source="Jackson/Browne" target="R.E.M." id="951" />
+      <edge source="Jackson/Browne" target="U2" id="952" />
+      <edge source="No/Doubt" target="Blink-182" id="953" />
+      <edge source="No/Doubt" target="Paramore" id="954" />
+      <edge source="No/Doubt" target="AllMusic" id="955" />
+      <edge source="Electric/Light/Orchestra" target="AllMusic" id="956" />
+      <edge source="Electric/Light/Orchestra" target="ABBA" id="957" />
+      <edge source="Green/Day" target="AllMusic" id="958" />
+      <edge source="Green/Day" target="Blink-182" id="959" />
+      <edge source="Green/Day" target="Weezer" id="960" />
+      <edge source="Green/Day" target="Ramones" id="961" />
+      <edge source="Green/Day" target="U2" id="962" />
+      <edge source="Green/Day" target="Aerosmith" id="963" />
+      <edge source="Jimi/Hendrix" target="Funkadelic" id="964" />
+      <edge source="Jimi/Hendrix" target="Metallica" id="965" />
+      <edge source="Jimi/Hendrix" target="Aerosmith" id="966" />
+      <edge source="Volbeat" target="AllMusic" id="967" />
+      <edge source="Volbeat" target="Metallica" id="968" />
+      <edge source="Volbeat" target="Megadeth" id="969" />
+      <edge source="Volbeat" target="Slayer" id="970" />
+      <edge source="Volbeat" target="Motörhead" id="971" />
+      <edge source="Volbeat" target="AC/DC" id="972" />
+      <edge source="The/Byrds" target="AllMusic" id="973" />
+      <edge source="The/Byrds" target="Donovan" id="974" />
+      <edge source="The/Byrds" target="R.E.M." id="975" />
+      <edge source="Vampire/Weekend" target="AllMusic" id="976" />
+      <edge source="Vampire/Weekend" target="Radiohead" id="977" />
+      <edge source="Red/Hot/Chili/Peppers" target="AllMusic" id="978" />
+      <edge source="Red/Hot/Chili/Peppers" target="Parliament-Funkadelic" id="979" />
+      <edge source="Red/Hot/Chili/Peppers" target="U2" id="980" />
+      <edge source="Red/Hot/Chili/Peppers" target="Metallica" id="981" />
+      <edge source="Red/Hot/Chili/Peppers" target="Korn" id="982" />
+      <edge source="Bay/City/Rollers" target="AllMusic" id="983" />
+      <edge source="Avril/Lavigne" target="Metallica" id="984" />
+      <edge source="Avril/Lavigne" target="Nickelback" id="985" />
+      <edge source="Avril/Lavigne" target="Evanescence" id="986" />
+      <edge source="Avril/Lavigne" target="Blink-182" id="987" />
+      <edge source="Avril/Lavigne" target="Radiohead" id="988" />
+      <edge source="Avril/Lavigne" target="Coldplay" id="989" />
+      <edge source="Avril/Lavigne" target="Paramore" id="990" />
+      <edge source="The/Cars" target="Weezer" id="991" />
+      <edge source="Air/Supply" target="AllMusic" id="992" />
+      <edge source="The/Yardbirds" target="AllMusic" id="993" />
+      <edge source="The/Yardbirds" target="Donovan" id="994" />
+      <edge source="Parliament-Funkadelic" target="Funkadelic" id="995" />
+      <edge source="Parliament-Funkadelic" target="AllMusic" id="996" />
+      <edge source="Chris/Cornell" target="Soundgarden" id="997" />
+      <edge source="Chris/Cornell" target="Audioslave" id="998" />
+      <edge source="Chris/Cornell" target="AllMusic" id="999" />
+      <edge source="Chris/Cornell" target="Aerosmith" id="1000" />
+      <edge source="Chris/Cornell" target="Metallica" id="1001" />
+      <edge source="Grand/Funk/Railroad" target="AllMusic" id="1002" />
+      <edge source="Beck" target="Radiohead" id="1003" />
+      <edge source="Beck" target="INXS" id="1004" />
+      <edge source="Beck" target="R.E.M." id="1005" />
+      <edge source="Arctic/Monkeys" target="AllMusic" id="1006" />
+      <edge source="Arctic/Monkeys" target="Radiohead" id="1007" />
+      <edge source="Arctic/Monkeys" target="Metallica" id="1008" />
+      <edge source="Yes/(band)" target="Supertramp" id="1009" />
+      <edge source="Yes/(band)" target="AllMusic" id="1010" />
+      <edge source="Smash/Mouth" target="AllMusic" id="1011" />
+      <edge source="Smash/Mouth" target="Soundgarden" id="1012" />
+      <edge source="Smash/Mouth" target="Audioslave" id="1013" />
+      <edge source="Smash/Mouth" target="Run-DMC" id="1014" />
+      <edge source="Neil/Young" target="Soundgarden" id="1015" />
+      <edge source="Neil/Young" target="AllMusic" id="1016" />
+      <edge source="Neil/Young" target="Radiohead" id="1017" />
+      <edge source="Hinder" target="AllMusic" id="1018" />
+      <edge source="Hinder" target="Nickelback" id="1019" />
+      <edge source="Hinder" target="Soundgarden" id="1020" />
+      <edge source="Hinder" target="Aerosmith" id="1021" />
+      <edge source="Hinder" target="AC/DC" id="1022" />
+      <edge source="Jerry/Lee/Lewis" target="AllMusic" id="1023" />
+      <edge source="Megadeth" target="Slayer" id="1024" />
+      <edge source="Megadeth" target="Metallica" id="1025" />
+      <edge source="Megadeth" target="AllMusic" id="1026" />
+      <edge source="Megadeth" target="Pantera" id="1027" />
+      <edge source="Megadeth" target="Aerosmith" id="1028" />
+      <edge source="Megadeth" target="Korn" id="1029" />
+      <edge source="Megadeth" target="AC/DC" id="1030" />
+      <edge source="Megadeth" target="Motörhead" id="1031" />
+      <edge source="Megadeth" target="Volbeat" id="1032" />
+      <edge source="Megadeth" target="Halestorm" id="1033" />
+      <edge source="Megadeth" target="Queensrÿche" id="1034" />
+      <edge source="Megadeth" target="Ramones" id="1035" />
+      <edge source="Megadeth" target="Sepultura" id="1036" />
+      <edge source="Ritchie/Valens" target="Ramones" id="1037" />
+      <edge source="Supertramp" target="AllMusic" id="1038" />
+      <edge source="Drowning/Pool" target="Seether" id="1039" />
+      <edge source="Drowning/Pool" target="P.O.D." id="1040" />
+      <edge source="Drowning/Pool" target="Metallica" id="1041" />
+      <edge source="Drowning/Pool" target="Soundgarden" id="1042" />
+      <edge source="Drowning/Pool" target="Slayer" id="1043" />
+      <edge source="Drowning/Pool" target="AC/DC" id="1044" />
+      <edge source="Drowning/Pool" target="Pantera" id="1045" />
+      <edge source="Drowning/Pool" target="Sepultura" id="1046" />
+      <edge source="Billy/Joel" target="AllMusic" id="1047" />
+      <edge source="Billy/Joel" target="Badfinger" id="1048" />
+      <edge source="Billy/Joel" target="AC/DC" id="1049" />
+      <edge source="Five/for/Fighting" target="Whitesnake" id="1050" />
+      <edge source="Five/for/Fighting" target="AllMusic" id="1051" />
+      <edge source="The/Monkees" target="AllMusic" id="1052" />
+      <edge source="Fleetwood/Mac" target="AllMusic" id="1053" />
+      <edge source="Alice/Cooper/(band)" target="AllMusic" id="1054" />
+      <edge source="Alice/Cooper/(band)" target="Ramones" id="1055" />
+      <edge source="Kaiser/Chiefs" target="Coldplay" id="1056" />
+      <edge source="Kaiser/Chiefs" target="U2" id="1057" />
+      <edge source="Elvis/Costello" target="ABBA" id="1058" />
+      <edge source="Elvis/Costello" target="AllMusic" id="1059" />
+      <edge source="Elvis/Costello" target="U2" id="1060" />
+      <edge source="Elvis/Costello" target="Radiohead" id="1061" />
+      <edge source="Dropkick/Murphys" target="Aerosmith" id="1062" />
+      <edge source="Dropkick/Murphys" target="AC/DC" id="1063" />
+      <edge source="Dropkick/Murphys" target="AllMusic" id="1064" />
+      <edge source="Goo/Goo/Dolls" target="AllMusic" id="1065" />
+      <edge source="Goo/Goo/Dolls" target="Motörhead" id="1066" />
+      <edge source="Goo/Goo/Dolls" target="Supertramp" id="1067" />
+      <edge source="Golden/Earring" target="AllMusic" id="1068" />
+      <edge source="Golden/Earring" target="Aerosmith" id="1069" />
+      <edge source="Chicago/(band)" target="AllMusic" id="1070" />
+      <edge source="Chicago/(band)" target="Aerosmith" id="1071" />
+      <edge source="The/Verve" target="AllMusic" id="1072" />
+      <edge source="The/Verve" target="Beck" id="1073" />
+      <edge source="Sam/Fender" target="AllMusic" id="1074" />
+      <edge source="Sam/Fender" target="Metallica" id="1075" />
+      <edge source="Sam/Fender" target="ABBA" id="1076" />
+      <edge source="Foo/Fighters" target="Weezer" id="1077" />
+      <edge source="Foo/Fighters" target="ABBA" id="1078" />
+      <edge source="Fats/Domino" target="AllMusic" id="1079" />
+      <edge source="Men/at/Work" target="AllMusic" id="1080" />
+      <edge source="Velvet/Revolver" target="AllMusic" id="1081" />
+      <edge source="Velvet/Revolver" target="Buckcherry" id="1082" />
+      <edge source="Velvet/Revolver" target="Aerosmith" id="1083" />
+      <edge source="ABBA" target="U2" id="1084" />
+      <edge source="Three/Days/Grace" target="AllMusic" id="1085" />
+      <edge source="Three/Days/Grace" target="Nickelback" id="1086" />
+      <edge source="Three/Days/Grace" target="Evanescence" id="1087" />
+      <edge source="Three/Days/Grace" target="Hoobastank" id="1088" />
+      <edge source="Three/Days/Grace" target="Staind" id="1089" />
+      <edge source="Three/Days/Grace" target="Seether" id="1090" />
+      <edge source="Three/Days/Grace" target="Buckcherry" id="1091" />
+      <edge source="Three/Days/Grace" target="Shinedown" id="1092" />
+      <edge source="Three/Days/Grace" target="P.O.D." id="1093" />
+      <edge source="Three/Days/Grace" target="Halestorm" id="1094" />
+      <edge source="Three/Days/Grace" target="Volbeat" id="1095" />
+      <edge source="Three/Days/Grace" target="Godsmack" id="1096" />
+      <edge source="Eagles/(band)" target="AllMusic" id="1097" />
+      <edge source="The/Jam" target="AllMusic" id="1098" />
+      <edge source="Joy/Division" target="AllMusic" id="1099" />
+      <edge source="Joy/Division" target="U2" id="1100" />
+      <edge source="Joy/Division" target="Soundgarden" id="1101" />
+      <edge source="The/Velvet/Underground" target="AllMusic" id="1102" />
+      <edge source="The/Velvet/Underground" target="U2" id="1103" />
+      <edge source="Jeff/Buckley" target="Radiohead" id="1104" />
+      <edge source="Jeff/Buckley" target="Soundgarden" id="1105" />
+      <edge source="Jeff/Buckley" target="U2" id="1106" />
+      <edge source="Jeff/Buckley" target="Morrissey" id="1107" />
+      <edge source="Jeff/Buckley" target="Coldplay" id="1108" />
+      <edge source="Greta/Van/Fleet" target="AllMusic" id="1109" />
+      <edge source="Greta/Van/Fleet" target="Aerosmith" id="1110" />
+      <edge source="Blue/Öyster/Cult" target="Whitesnake" id="1111" />
+      <edge source="Blue/Öyster/Cult" target="Motörhead" id="1112" />
+      <edge source="Blue/Öyster/Cult" target="Queensrÿche" id="1113" />
+      <edge source="Blue/Öyster/Cult" target="Metallica" id="1114" />
+      <edge source="Blue/Öyster/Cult" target="Ratt" id="1115" />
+      <edge source="Sonic/Youth" target="AllMusic" id="1116" />
+      <edge source="Beastie/Boys" target="AllMusic" id="1117" />
+      <edge source="Beastie/Boys" target="Run-DMC" id="1118" />
+      <edge source="Beastie/Boys" target="R.E.M." id="1119" />
+      <edge source="Beastie/Boys" target="U2" id="1120" />
+      <edge source="Radiohead" target="Beck" id="1121" />
+      <edge source="Radiohead" target="R.E.M." id="1122" />
+      <edge source="Radiohead" target="AllMusic" id="1123" />
+      <edge source="Radiohead" target="U2" id="1124" />
+      <edge source="Radiohead" target="Coldplay" id="1125" />
+      <edge source="Blink-182" target="AllMusic" id="1126" />
+      <edge source="Blink-182" target="U2" id="1127" />
+      <edge source="Blink-182" target="Metallica" id="1128" />
+      <edge source="Blink-182" target="Paramore" id="1129" />
+      <edge source="Blink-182" target="Radiohead" id="1130" />
+      <edge source="Garbage/(band)" target="U2" id="1131" />
+      <edge source="Garbage/(band)" target="AllMusic" id="1132" />
+      <edge source="The/Jesus/and/Mary/Chain" target="AllMusic" id="1133" />
+      <edge source="The/Jesus/and/Mary/Chain" target="Ramones" id="1134" />
+      <edge source="Bo/Diddley" target="AllMusic" id="1135" />
+      <edge source="The/Lovin'/Spoonful" target="AllMusic" id="1136" />
+      <edge source="Faith/No/More" target="AllMusic" id="1137" />
+      <edge source="Faith/No/More" target="Metallica" id="1138" />
+      <edge source="Faith/No/More" target="Aerosmith" id="1139" />
+      <edge source="Faith/No/More" target="Korn" id="1140" />
+      <edge source="Faith/No/More" target="Deftones" id="1141" />
+      <edge source="Billy/Squier" target="Run-DMC" id="1142" />
+      <edge source="Queens/of/the/Stone/Age" target="AllMusic" id="1143" />
+      <edge source="The/Everly/Brothers" target="AllMusic" id="1144" />
+      <edge source="Marilyn/Manson/(band)" target="AllMusic" id="1145" />
+      <edge source="Marilyn/Manson/(band)" target="Korn" id="1146" />
+      <edge source="Marilyn/Manson/(band)" target="AC/DC" id="1147" />
+      <edge source="Marilyn/Manson/(band)" target="Slayer" id="1148" />
+      <edge source="Marilyn/Manson/(band)" target="Rammstein" id="1149" />
+      <edge source="David/Bowie" target="U2" id="1150" />
+      <edge source="Paul/McCartney" target="U2" id="1151" />
+      <edge source="Godsmack" target="AllMusic" id="1152" />
+      <edge source="Godsmack" target="Evanescence" id="1153" />
+      <edge source="Godsmack" target="Metallica" id="1154" />
+      <edge source="Godsmack" target="Staind" id="1155" />
+      <edge source="Godsmack" target="Aerosmith" id="1156" />
+      <edge source="Godsmack" target="Pantera" id="1157" />
+      <edge source="Hall/&amp;/Oates" target="AllMusic" id="1158" />
+      <edge source="Tom/Petty" target="Beck" id="1159" />
+      <edge source="The/Animals" target="AllMusic" id="1160" />
+      <edge source="White/Zombie/(band)" target="Pantera" id="1161" />
+      <edge source="White/Zombie/(band)" target="Megadeth" id="1162" />
+      <edge source="White/Zombie/(band)" target="Sepultura" id="1163" />
+      <edge source="White/Zombie/(band)" target="Metallica" id="1164" />
+      <edge source="White/Zombie/(band)" target="Soundgarden" id="1165" />
+      <edge source="White/Zombie/(band)" target="Ramones" id="1166" />
+      <edge source="White/Zombie/(band)" target="AC/DC" id="1167" />
+      <edge source="White/Zombie/(band)" target="AllMusic" id="1168" />
+      <edge source="The/Band" target="AllMusic" id="1169" />
+      <edge source="The/Go-Go's" target="AllMusic" id="1170" />
+      <edge source="The/Cranberries" target="U2" id="1171" />
+      <edge source="The/Cranberries" target="R.E.M." id="1172" />
+      <edge source="Bon/Jovi" target="Ratt" id="1173" />
+      <edge source="Bon/Jovi" target="AllMusic" id="1174" />
+      <edge source="Phil/Collins" target="AllMusic" id="1175" />
+      <edge source="Phil/Collins" target="ABBA" id="1176" />
+      <edge source="Interpol/(band)" target="U2" id="1177" />
+      <edge source="The/Cab" target="AllMusic" id="1178" />
+      <edge source="The/Cab" target="Blink-182" id="1179" />
+      <edge source="Alice/in/Chains" target="Soundgarden" id="1180" />
+      <edge source="Alice/in/Chains" target="AllMusic" id="1181" />
+      <edge source="Alice/in/Chains" target="Megadeth" id="1182" />
+      <edge source="Alice/in/Chains" target="Slayer" id="1183" />
+      <edge source="Alice/in/Chains" target="Metallica" id="1184" />
+      <edge source="Alice/in/Chains" target="Queensrÿche" id="1185" />
+      <edge source="Alice/in/Chains" target="Pantera" id="1186" />
+      <edge source="Alice/in/Chains" target="Deftones" id="1187" />
+      <edge source="Alice/in/Chains" target="Korn" id="1188" />
+      <edge source="Alice/in/Chains" target="AC/DC" id="1189" />
+      <edge source="Alice/in/Chains" target="Aerosmith" id="1190" />
+      <edge source="Alice/in/Chains" target="Funkadelic" id="1191" />
+      <edge source="Alice/in/Chains" target="Motörhead" id="1192" />
+      <edge source="Alice/in/Chains" target="U2" id="1193" />
+      <edge source="Alice/in/Chains" target="Godsmack" id="1194" />
+      <edge source="Alice/in/Chains" target="Staind" id="1195" />
+      <edge source="Alice/in/Chains" target="Hoobastank" id="1196" />
+      <edge source="Alice/in/Chains" target="Mudvayne" id="1197" />
+      <edge source="Alice/in/Chains" target="Nickelback" id="1198" />
+      <edge source="Alice/in/Chains" target="Seether" id="1199" />
+      <edge source="Scorpions/(band)" target="AllMusic" id="1200" />
+      <edge source="Scorpions/(band)" target="Metallica" id="1201" />
+      <edge source="Scorpions/(band)" target="Motörhead" id="1202" />
+      <edge source="Scorpions/(band)" target="Queensrÿche" id="1203" />
+      <edge source="Scorpions/(band)" target="Whitesnake" id="1204" />
+      <edge source="Scorpions/(band)" target="Megadeth" id="1205" />
+      <edge source="Led/Zeppelin" target="Aerosmith" id="1206" />
+      <edge source="Led/Zeppelin" target="Megadeth" id="1207" />
+      <edge source="Led/Zeppelin" target="Ramones" id="1208" />
+      <edge source="Led/Zeppelin" target="Soundgarden" id="1209" />
+      <edge source="Led/Zeppelin" target="ABBA" id="1210" />
+      <edge source="Led/Zeppelin" target="AllMusic" id="1211" />
+      <edge source="Billy/Idol" target="AllMusic" id="1212" />
+      <edge source="Third/Eye/Blind" target="AllMusic" id="1213" />
+      <edge source="Third/Eye/Blind" target="U2" id="1214" />
+      <edge source="Warrant/(American/band)" target="AllMusic" id="1215" />
+      <edge source="Warrant/(American/band)" target="Queensrÿche" id="1216" />
+      <edge source="Warrant/(American/band)" target="Whitesnake" id="1217" />
+      <edge source="Boston/(band)" target="AC/DC" id="1218" />
+      <edge source="Boston/(band)" target="Godsmack" id="1219" />
+      <edge source="Manfred/Mann/(musician)" target="AllMusic" id="1220" />
+      <edge source="The/Clash" target="Ramones" id="1221" />
+      <edge source="The/Clash" target="AllMusic" id="1222" />
+      <edge source="The/Clash" target="U2" id="1223" />
+      <edge source="Little/River/Band" target="AllMusic" id="1224" />
+      <edge source="Little/River/Band" target="Supertramp" id="1225" />
+      <edge source="Joe/Satriani" target="AllMusic" id="1226" />
+      <edge source="Joe/Satriani" target="Metallica" id="1227" />
+      <edge source="Joe/Satriani" target="Coldplay" id="1228" />
+      <edge source="Parliament/(band)" target="Parliament-Funkadelic" id="1229" />
+      <edge source="Parliament/(band)" target="Funkadelic" id="1230" />
+      <edge source="Parliament/(band)" target="AllMusic" id="1231" />
+      <edge source="Buckcherry" target="AllMusic" id="1232" />
+      <edge source="Buckcherry" target="Soundgarden" id="1233" />
+      <edge source="Buckcherry" target="Pantera" id="1234" />
+      <edge source="Buckcherry" target="Deftones" id="1235" />
+      <edge source="Buckcherry" target="AC/DC" id="1236" />
+      <edge source="Canned/Heat" target="AllMusic" id="1237" />
+      <edge source="Creedence/Clearwater/Revival" target="AllMusic" id="1238" />
+      <edge source="Bowling/for/Soup" target="Ratt" id="1239" />
+      <edge source="Bowling/for/Soup" target="Ramones" id="1240" />
+      <edge source="Bowling/for/Soup" target="Blink-182" id="1241" />
+      <edge source="Bowling/for/Soup" target="AllMusic" id="1242" />
+      <edge source="The/Mothers/of/Invention" target="AllMusic" id="1243" />
+      <edge source="Social/Distortion" target="AllMusic" id="1244" />
+      <edge source="Social/Distortion" target="Volbeat" id="1245" />
+      <edge source="Depeche/Mode" target="U2" id="1246" />
+      <edge source="Depeche/Mode" target="Soundgarden" id="1247" />
+      <edge source="Depeche/Mode" target="Coldplay" id="1248" />
+      <edge source="Depeche/Mode" target="AllMusic" id="1249" />
+      <edge source="Depeche/Mode" target="Rammstein" id="1250" />
+      <edge source="Depeche/Mode" target="Deftones" id="1251" />
+      <edge source="Sly/and/the/Family/Stone" target="Funkadelic" id="1252" />
+      <edge source="Sly/and/the/Family/Stone" target="Aerosmith" id="1253" />
+      <edge source="Saving/Abel" target="Nickelback" id="1254" />
+      <edge source="Saving/Abel" target="Hinder" id="1255" />
+      <edge source="Saving/Abel" target="P.O.D." id="1256" />
+      <edge source="The/Beatles" target="AllMusic" id="1257" />
+      <edge source="Loverboy" target="AllMusic" id="1258" />
+      <edge source="Ratt" target="Whitesnake" id="1259" />
+      <edge source="Ratt" target="Aerosmith" id="1260" />
+      <edge source="Ratt" target="AllMusic" id="1261" />
+      <edge source="Ratt" target="Megadeth" id="1262" />
+      <edge source="Ratt" target="Slayer" id="1263" />
+      <edge source="Travis/(band)" target="Coldplay" id="1264" />
+      <edge source="The/Black/Crowes" target="R.E.M." id="1265" />
+      <edge source="The/Black/Crowes" target="Metallica" id="1266" />
+      <edge source="The/Black/Crowes" target="AC/DC" id="1267" />
+      <edge source="The/Black/Crowes" target="Queensrÿche" id="1268" />
+      <edge source="Rage/Against/the/Machine" target="Audioslave" id="1269" />
+      <edge source="Rage/Against/the/Machine" target="AllMusic" id="1270" />
+      <edge source="Rage/Against/the/Machine" target="U2" id="1271" />
+      <edge source="Rage/Against/the/Machine" target="Soundgarden" id="1272" />
+      <edge source="Rage/Against/the/Machine" target="Run-DMC" id="1273" />
+      <edge source="Cage/the/Elephant" target="Coldplay" id="1274" />
+      <edge source="Cage/the/Elephant" target="Metallica" id="1275" />
+      <edge source="Cage/the/Elephant" target="Beck" id="1276" />
+      <edge source="My/Chemical/Romance" target="AllMusic" id="1277" />
+      <edge source="My/Chemical/Romance" target="Slayer" id="1278" />
+      <edge source="My/Chemical/Romance" target="AC/DC" id="1279" />
+      <edge source="My/Chemical/Romance" target="Pantera" id="1280" />
+      <edge source="My/Chemical/Romance" target="Morrissey" id="1281" />
+      <edge source="My/Chemical/Romance" target="Megadeth" id="1282" />
+      <edge source="My/Chemical/Romance" target="Metallica" id="1283" />
+      <edge source="My/Chemical/Romance" target="Ramones" id="1284" />
+      <edge source="My/Chemical/Romance" target="Blink-182" id="1285" />
+      <edge source="Black/Veil/Brides" target="Metallica" id="1286" />
+      <edge source="Black/Veil/Brides" target="AllMusic" id="1287" />
+      <edge source="Black/Veil/Brides" target="Pantera" id="1288" />
+      <edge source="Black/Veil/Brides" target="Aerosmith" id="1289" />
+      <edge source="Black/Veil/Brides" target="Halestorm" id="1290" />
+      <edge source="Five/Finger/Death/Punch" target="Korn" id="1291" />
+      <edge source="Five/Finger/Death/Punch" target="Godsmack" id="1292" />
+      <edge source="Five/Finger/Death/Punch" target="AllMusic" id="1293" />
+      <edge source="Five/Finger/Death/Punch" target="Megadeth" id="1294" />
+      <edge source="Five/Finger/Death/Punch" target="Pantera" id="1295" />
+      <edge source="A/Perfect/Circle" target="AllMusic" id="1296" />
+      <edge source="A/Perfect/Circle" target="Deftones" id="1297" />
+      <edge source="A/Perfect/Circle" target="Weezer" id="1298" />
+      <edge source="Bryan/Ferry" target="AllMusic" id="1299" />
+      <edge source="The/Doors" target="AllMusic" id="1300" />
+      <edge source="Stone/Sour" target="AllMusic" id="1301" />
+      <edge source="Stone/Sour" target="Godsmack" id="1302" />
+      <edge source="Stone/Sour" target="Halestorm" id="1303" />
+      <edge source="Lou/Reed" target="Metallica" id="1304" />
+      <edge source="Lou/Reed" target="AllMusic" id="1305" />
+      <edge source="Lou/Reed" target="Morrissey" id="1306" />
+      <edge source="Lou/Reed" target="Ramones" id="1307" />
+      <edge source="Panic!/at/the/Disco" target="AllMusic" id="1308" />
+      <edge source="Panic!/at/the/Disco" target="Blink-182" id="1309" />
+      <edge source="Panic!/at/the/Disco" target="Weezer" id="1310" />
+      <edge source="The/White/Stripes" target="AC/DC" id="1311" />
+      <edge source="The/White/Stripes" target="AllMusic" id="1312" />
+      <edge source="Traffic/(band)" target="AllMusic" id="1313" />
+      <edge source="Frank/Zappa" target="AllMusic" id="1314" />
+      <edge source="Starship/(band)" target="AllMusic" id="1315" />
+      <edge source="Starship/(band)" target="Whitesnake" id="1316" />
+      <edge source="Europe/(band)" target="AllMusic" id="1317" />
+      <edge source="Europe/(band)" target="Soundgarden" id="1318" />
+      <edge source="Europe/(band)" target="Metallica" id="1319" />
+      <edge source="Europe/(band)" target="Whitesnake" id="1320" />
+      <edge source="Puddle/of/Mudd" target="Godsmack" id="1321" />
+      <edge source="Puddle/of/Mudd" target="Deftones" id="1322" />
+      <edge source="Puddle/of/Mudd" target="Staind" id="1323" />
+      <edge source="Puddle/of/Mudd" target="Nickelback" id="1324" />
+      <edge source="Puddle/of/Mudd" target="Hinder" id="1325" />
+      <edge source="Puddle/of/Mudd" target="AC/DC" id="1326" />
+      <edge source="Puddle/of/Mudd" target="P.O.D." id="1327" />
+      <edge source="Puddle/of/Mudd" target="AllMusic" id="1328" />
+      <edge source="Puddle/of/Mudd" target="Soundgarden" id="1329" />
+      <edge source="Slipknot/(band)" target="AllMusic" id="1330" />
+      <edge source="Slipknot/(band)" target="Metallica" id="1331" />
+      <edge source="Slipknot/(band)" target="Deftones" id="1332" />
+      <edge source="Slipknot/(band)" target="Korn" id="1333" />
+      <edge source="Slipknot/(band)" target="Radiohead" id="1334" />
+      <edge source="Slipknot/(band)" target="Sepultura" id="1335" />
+      <edge source="Slipknot/(band)" target="Slayer" id="1336" />
+      <edge source="Slipknot/(band)" target="Megadeth" id="1337" />
+      <edge source="Slipknot/(band)" target="Pantera" id="1338" />
+      <edge source="Slipknot/(band)" target="Run-DMC" id="1339" />
+      <edge source="Slipknot/(band)" target="Mudvayne" id="1340" />
+      <edge source="Christopher/Cross" target="Badfinger" id="1341" />
+      <edge source="Lenny/Kravitz" target="Aerosmith" id="1342" />
+      <edge source="Lynyrd/Skynyrd" target="AllMusic" id="1343" />
+      <edge source="Disturbed/(band)" target="Godsmack" id="1344" />
+      <edge source="Disturbed/(band)" target="Korn" id="1345" />
+      <edge source="Disturbed/(band)" target="Metallica" id="1346" />
+      <edge source="Disturbed/(band)" target="Halestorm" id="1347" />
+      <edge source="Disturbed/(band)" target="Megadeth" id="1348" />
+      <edge source="Disturbed/(band)" target="Staind" id="1349" />
+      <edge source="Disturbed/(band)" target="Pantera" id="1350" />
+      <edge source="Disturbed/(band)" target="Soundgarden" id="1351" />
+      <edge source="Disturbed/(band)" target="Queensrÿche" id="1352" />
+      <edge source="Weezer" target="AllMusic" id="1353" />
+      <edge source="Weezer" target="Blink-182" id="1354" />
+      <edge source="Weezer" target="Radiohead" id="1355" />
+      <edge source="Weezer" target="Metallica" id="1356" />
+      <edge source="Weezer" target="Slayer" id="1357" />
+      <edge source="Weezer" target="Paramore" id="1358" />
+      <edge source="Foster/the/People" target="AllMusic" id="1359" />
+      <edge source="Deep/Purple" target="Whitesnake" id="1360" />
+      <edge source="Deep/Purple" target="AllMusic" id="1361" />
+      <edge source="Deep/Purple" target="Aerosmith" id="1362" />
+      <edge source="Deep/Purple" target="Megadeth" id="1363" />
+      <edge source="Deep/Purple" target="Metallica" id="1364" />
+      <edge source="Deep/Purple" target="Motörhead" id="1365" />
+      <edge source="Deep/Purple" target="Pantera" id="1366" />
+      <edge source="Deep/Purple" target="Sepultura" id="1367" />
+      <edge source="Deep/Purple" target="Slayer" id="1368" />
+      <edge source="Deep/Purple" target="Soundgarden" id="1369" />
+      <edge source="Deep/Purple" target="Rammstein" id="1370" />
+      <edge source="The/Strokes" target="Radiohead" id="1371" />
+      <edge source="The/Strokes" target="AllMusic" id="1372" />
+      <edge source="Oasis/(band)" target="AC/DC" id="1373" />
+      <edge source="Oasis/(band)" target="Beck" id="1374" />
+      <edge source="Oasis/(band)" target="Slade" id="1375" />
+      <edge source="INXS" target="AllMusic" id="1376" />
+      <edge source="INXS" target="AC/DC" id="1377" />
+      <edge source="Extreme/(band)" target="Ratt" id="1378" />
+      <edge source="Bob/Seger" target="AllMusic" id="1379" />
+      <edge source="The/Black/Keys" target="Ramones" id="1380" />
+      <edge source="The/Black/Keys" target="Coldplay" id="1381" />
+      <edge source="Roy/Orbison" target="AllMusic" id="1382" />
+      <edge source="3/Doors/Down" target="AllMusic" id="1383" />
+      <edge source="3/Doors/Down" target="Nickelback" id="1384" />
+      <edge source="3/Doors/Down" target="Shinedown" id="1385" />
+      <edge source="3/Doors/Down" target="Staind" id="1386" />
+      <edge source="3/Doors/Down" target="Hinder" id="1387" />
+      <edge source="Santana/(band)" target="AllMusic" id="1388" />
+      <edge source="The/Alan/Parsons/Project" target="AllMusic" id="1389" />
+      <edge source="Meat/Loaf" target="AllMusic" id="1390" />
+      <edge source="Incubus/(band)" target="Korn" id="1391" />
+      <edge source="Incubus/(band)" target="AllMusic" id="1392" />
+      <edge source="Incubus/(band)" target="R.E.M." id="1393" />
+      <edge source="Incubus/(band)" target="Deftones" id="1394" />
+      <edge source="Incubus/(band)" target="Hoobastank" id="1395" />
+      <edge source="Incubus/(band)" target="Soundgarden" id="1396" />
+      <edge source="Incubus/(band)" target="Staind" id="1397" />
+      <edge source="Quiet/Riot" target="Slade" id="1398" />
+      <edge source="Quiet/Riot" target="Whitesnake" id="1399" />
+      <edge source="Quiet/Riot" target="Ratt" id="1400" />
+      <edge source="Quiet/Riot" target="Slayer" id="1401" />
+      <edge source="Quiet/Riot" target="Weezer" id="1402" />
+      <edge source="Quiet/Riot" target="AllMusic" id="1403" />
+      <edge source="Barenaked/Ladies" target="U2" id="1404" />
+      <edge source="Barenaked/Ladies" target="AllMusic" id="1405" />
+      <edge source="Modest/Mouse" target="AllMusic" id="1406" />
+      <edge source="Smokie/(band)" target="AllMusic" id="1407" />
+      <edge source="Sting/(musician)" target="AllMusic" id="1408" />
+      <edge source="Sting/(musician)" target="AC/DC" id="1409" />
+      <edge source="Sting/(musician)" target="Donovan" id="1410" />
+      <edge source="Toto/(band)" target="AllMusic" id="1411" />
+      <edge source="Toto/(band)" target="Weezer" id="1412" />
+      <edge source="Nickelback" target="Metallica" id="1413" />
+      <edge source="Nickelback" target="Pantera" id="1414" />
+      <edge source="Nickelback" target="Seether" id="1415" />
+      <edge source="Nickelback" target="Hinder" id="1416" />
+      <edge source="Nickelback" target="Shinedown" id="1417" />
+      <edge source="Nickelback" target="Buckcherry" id="1418" />
+      <edge source="Nickelback" target="Slayer" id="1419" />
+      <edge source="Nickelback" target="AllMusic" id="1420" />
+      <edge source="Nickelback" target="U2" id="1421" />
+      <edge source="Pop/Evil" target="Whitesnake" id="1422" />
+      <edge source="Don/Henley" target="AllMusic" id="1423" />
+      <edge source="Saliva/(band)" target="AllMusic" id="1424" />
+      <edge source="Saliva/(band)" target="Aerosmith" id="1425" />
+      <edge source="Saliva/(band)" target="Shinedown" id="1426" />
+      <edge source="Saliva/(band)" target="P.O.D." id="1427" />
+      <edge source="REO/Speedwagon" target="Loverboy" id="1428" />
+      <edge source="Accept/(band)" target="AllMusic" id="1429" />
+      <edge source="Accept/(band)" target="AC/DC" id="1430" />
+      <edge source="Accept/(band)" target="Metallica" id="1431" />
+      <edge source="Accept/(band)" target="Slayer" id="1432" />
+      <edge source="Accept/(band)" target="Megadeth" id="1433" />
+      <edge source="Accept/(band)" target="Motörhead" id="1434" />
+      <edge source="Accept/(band)" target="Pantera" id="1435" />
+      <edge source="Accept/(band)" target="Soundgarden" id="1436" />
+      <edge source="Living/Colour" target="AllMusic" id="1437" />
+      <edge source="The/B-52's" target="AllMusic" id="1438" />
+      <edge source="The/B-52's" target="R.E.M." id="1439" />
+      <edge source="Sheryl/Crow" target="AllMusic" id="1440" />
+      <edge source="Sheryl/Crow" target="Donovan" id="1441" />
+      <edge source="The/Used" target="AllMusic" id="1442" />
+      <edge source="Simple/Minds" target="AllMusic" id="1443" />
+      <edge source="Simple/Minds" target="U2" id="1444" />
+      <edge source="Simple/Minds" target="INXS" id="1445" />
+      <edge source="Sublime/(band)" target="AllMusic" id="1446" />
+      <edge source="Sublime/(band)" target="ABBA" id="1447" />
+      <edge source="The/Rolling/Stones" target="Donovan" id="1448" />
+      <edge source="The/Rolling/Stones" target="AllMusic" id="1449" />
+      <edge source="Queen/(band)" target="AllMusic" id="1450" />
+      <edge source="Queen/(band)" target="Metallica" id="1451" />
+      <edge source="Queen/(band)" target="Slade" id="1452" />
+      <edge source="Queen/(band)" target="Radiohead" id="1453" />
+      <edge source="Queen/(band)" target="Megadeth" id="1454" />
+      <edge source="Chris/de/Burgh" target="Supertramp" id="1455" />
+      <edge source="Chris/de/Burgh" target="AllMusic" id="1456" />
+      <edge source="Pink/Floyd" target="U2" id="1457" />
+      <edge source="Pink/Floyd" target="Radiohead" id="1458" />
+      <edge source="Pink/Floyd" target="Queensrÿche" id="1459" />
+      <edge source="Pink/Floyd" target="AllMusic" id="1460" />
+      <edge source="Poison/(American/band)" target="Ratt" id="1461" />
+      <edge source="Poison/(American/band)" target="Whitesnake" id="1462" />
+      <edge source="Poison/(American/band)" target="Aerosmith" id="1463" />
+      <edge source="Poison/(American/band)" target="AllMusic" id="1464" />
+      <edge source="Poison/(American/band)" target="AC/DC" id="1465" />
+      <edge source="Eddie/Cochran" target="AllMusic" id="1466" />
+      <edge source="Eddie/Cochran" target="U2" id="1467" />
+      <edge source="The/Script" target="AllMusic" id="1468" />
+      <edge source="The/Script" target="U2" id="1469" />
+      <edge source="The/Script" target="Coldplay" id="1470" />
+      <edge source="Uriah/Heep/(band)" target="Whitesnake" id="1471" />
+      <edge source="Uriah/Heep/(band)" target="AllMusic" id="1472" />
+      <edge source="The/Smiths" target="Morrissey" id="1473" />
+      <edge source="The/Smiths" target="Beck" id="1474" />
+      <edge source="The/Smiths" target="AllMusic" id="1475" />
+      <edge source="The/Smiths" target="Radiohead" id="1476" />
+      <edge source="Rammstein" target="Korn" id="1477" />
+      <edge source="Rammstein" target="AllMusic" id="1478" />
+      <edge source="Foals/(band)" target="Radiohead" id="1479" />
+      <edge source="Foals/(band)" target="Paramore" id="1480" />
+      <edge source="Foals/(band)" target="AllMusic" id="1481" />
+    </edges>
+  </graph>
+</gexf>
